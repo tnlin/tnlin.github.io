@@ -24,7 +24,7 @@ Ting-En (Tony) Lin is a researcher at [Conversational AI  team, Alibaba DAMO Aca
 - Feb. 2021: Two papers (open intent detection and discovery) are accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)!
 - Jun. 2020: Received Tsinghua outstanding dissertation and graduate award! (Top 5%)
 - Feb. 2020: <b>CDAC+</b>, a semi-supervised clustering method for open intent discovery, is presented at [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)! @New York
-- Jul. 2019: <b>DeepUnk (LMCL)</b>,g a simple yet effective method for open intent detection is presented at [ACL 2019](https://acl2019.org/)! @Florence
+- Jul. 2019: <b>DeepUnk (LMCL)</b>, a simple yet effective method for open intent detection is presented at [ACL 2019](https://acl2019.org/)! @Florence
 - Jun. 2016: Received NCTU outstanding contribution award! (Top 1%)
 - Dec. 2015: Visit Stanford Research Institute (SRI) for a two-week innovation workshop! @California
 
