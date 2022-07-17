@@ -30,8 +30,8 @@ Ting-En (Tony) Lin is a researcher at [Conversational AI  team, Alibaba DAMO Aca
 Global-to-local memory pointer network 
 ## Awards
 - Outstanding Dissertation and Graduate Award (Top 5%), Tsinghua University, 2020.
-- Special Prize Scholarship of Hong Kong, Macao and Overseas Chinese Students (Top 2%), Ministry of Education, 2019.
-- Special Prize Scholarship of Hong Kong, Macao and Overseas Chinese Students (Top 2%), Ministry of Education, 2018.
+- Special Prize Scholarship for Overseas Chinese Students (Top 2%), Ministry of Education, 2019.
+- Special Prize Scholarship for Overseas Chinese Students (Top 2%), Ministry of Education, 2018.
 - Winner of Booking.com Hackathon, Taipei, 2017.
 - Outstanding Contribution Award (Top 1%), National Chiao Tung University, 2016.
 - Runner-up of EDGE Entrepreneurship Competition, Tokyo University of Agriculture and Technology, 2015.
