@@ -24,18 +24,18 @@ Ting-En (Tony) Lin is a researcher at [Conversational AI  team, Alibaba DAMO Aca
 - Feb. 2021: Two papers (open intent detection and discovery) are accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)!
 - Jun. 2020: Received Tsinghua outstanding dissertation and graduate award! (Top 5%)
 - Feb. 2020: CDAC+, a semi-supervised clustering method for open intent discovery, is presented at [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)! @New York
-- Jul. 2019: DeepUnk, a simple yet effective method for open intent detection, is presented at [ACL 2019](https://acl2019.org/)! @Florence
+- Jul. 2019: DeepUnk(LMCL), a simple yet effective method for open intent detection is presented at [ACL 2019](https://acl2019.org/)! @Florence
 - Jun. 2016: Received NCTU outstanding contribution award! (Top 1%)
 - Dec. 2015: Visit Stanford Research Institute (SRI) for a two-week innovation workshop! @California
 
 ## Awards
-- Outstanding Dissertation and Graduate Award (Top 5%), Tsinghua University, 2020.
-- Special Scholarship for Overseas Chinese Students (Top 2%), Ministry of Education, 2019.
-- Special Scholarship for Overseas Chinese Students (Top 2%), Ministry of Education, 2018.
-- Winner of Booking.com Hackathon, Taiwan, 2017.
-- Outstanding Contribution Award (Top 1%), National Chiao Tung University, 2016.
-- Runner-up of TUAT Entrepreneurship Competition, Japan, 2015.
+- <b>Outstanding Dissertation and Graduate Award (Top 5%)</b>, Tsinghua University, 2020.
+- <b>Special Scholarship for Overseas Chinese Students (Top 2%)</b>, Ministry of Education, 2019.
+- <b>Special Scholarship for Overseas Chinese Students (Top 2%)</b>, Ministry of Education, 2018.
+- <b>Outstanding Contribution Award (Top 1%)</b>, National Chiao Tung University, 2016.
+- Winner of Booking.com Hackathon, Taipei, 2017.
 - Winner of Mei-Chu Hackathon, National Chiao Tung and Tsinghua University, 2015.
+- Runner-up of TUAT Entrepreneurship Competition, Japan, 2015.
 
 ## We Are Hiring!
 We are hiring the senior algorithm expert (P8), fresh grads, and [research interns](https://talent.alibaba.com/campus/position-detail?positionId=2000738). Please check the [Alibaba careers](https://talent.alibaba.com/) for our open positions. Feel free to contact me if you need any further information.
