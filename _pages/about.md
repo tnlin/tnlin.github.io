@@ -27,7 +27,7 @@ Ting-En (Tony) Lin is a researcher at [Conversational AI  team, Alibaba DAMO Aca
 - Jul. 2019: DeepUnk, a simple yet effective method for open intent detection, is presented at [ACL 2019](https://acl2019.org/)! (Florence, Italy)
 - Jun. 2016: Received NCTU outstanding contribution award! (Top 1%)
 - Dec. 2015: Visit Stanford Research Institute (SRI) for a two-week innovation workshop! (California, US)
-Global-to-local memory pointer network 
+
 ## Awards
 - Outstanding Dissertation and Graduate Award (Top 5%), Tsinghua University, 2020.
 - Special Prize Scholarship for Overseas Chinese Students (Top 2%), Ministry of Education, 2019.
