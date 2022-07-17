@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Please check my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl" target="_blank">Google Scholar</a></u> profile for lateset publications.
+Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFVMAAAAAJ&hl=en) profile for lateset publications.
  <!-- (* denotes equal contribution) -->
 
 ## Papers
@@ -26,6 +26,12 @@ Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>. <i>AAAI 2021</i>. [[PDF]](https://www.
 
 <b>[Deep Unknown Intent Detection with Margin Loss]()</b> <br> 
 <b>Ting-En Lin</b>, Hua Xu. <i>ACL 2019</i>. [[PDF]](https://arxiv.org/pdf/1906.00434) [[Code]](https://github.com/thuiar/DeepUnkID)
+
+<b>[Automated Machine Learning for Internet of Things]()</b> <br> 
+Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Iru Wang. <i>ICCE-TW 2017</i>. [[PDF]](https://fardapaper.ir/mohavaha/uploads/2017/10/Automated-Machine-Learning-for-Internet-of-Things.pdf)
+
+
+
 
 ## Patents
 <b>[CN114267345B 模型训练方法、语音处理方法及其装置]()</b> <br> 

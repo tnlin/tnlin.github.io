@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tony Lin (林廷恩)"
+title                    : "Tony Lin"
 title_separator          : "-"
-name                     : &name "Tony Lin (林廷恩)"
+name                     : &name "Tony Lin"
 description              : &description "personal description"
 url                      : https://tnlin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ting-En Lin"
+  name             : "Ting-En Lin (林廷恩)"
   avatar           : "profile-TonyLin-2019.jpg"
   bio              : "NLP, Conversational AI, Multimodal Understanding"
   location         : 
