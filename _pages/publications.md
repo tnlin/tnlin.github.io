@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -20,17 +20,14 @@ Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>. <i>AAAI 2021</i>. [[PDF]](https://www.
 <b>[Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement]()</b> <br> 
 <b>Ting-En Lin</b>, Hua Xu, Hanlei Zhang. <i>AAAI 2020</i>. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/6353/6209) [[Code]](https://github.com/thuiar/CDAC-plus/)
 
-<b>[A post-processing method for detecting unknown intent of dialogue system via pre-trained deep neural network classifier]()</b> <br> 
-<b>Ting-En Lin</b>, Hua Xu. <i>Knowledge-Based Systems, 2019</i>. 
-[[PDF]](https://arxiv.org/pdf/2003.03504)
+<b>[A Post-processing Method for Detecting Unknown Intent of Dialogue System via Pre-trained Deep Neural Network Classifier]()</b> <br> 
+<b>Ting-En Lin</b>, Hua Xu. <i>Knowledge-Based Systems, 2019</i>. [[PDF]](https://arxiv.org/pdf/2003.03504)
 
 <b>[Deep Unknown Intent Detection with Margin Loss]()</b> <br> 
 <b>Ting-En Lin</b>, Hua Xu. <i>ACL 2019</i>. [[PDF]](https://arxiv.org/pdf/1906.00434) [[Code]](https://github.com/thuiar/DeepUnkID)
 
 <b>[Automated Machine Learning for Internet of Things]()</b> <br> 
 Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Iru Wang. <i>ICCE-TW 2017</i>. [[PDF]](https://fardapaper.ir/mohavaha/uploads/2017/10/Automated-Machine-Learning-for-Internet-of-Things.pdf)
-
-
 
 
 ## Patents
