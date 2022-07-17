@@ -30,8 +30,8 @@ Ting-En (Tony) Lin is a researcher at [Conversational AI  team, Alibaba DAMO Aca
 
 ## Awards
 - <b>Outstanding Dissertation and Graduate Award (Top 5%)</b>, Tsinghua University, 2020.
-- <b>Special Scholarship for Overseas Chinese Students (Top 2%)</b>, Ministry of Education, 2019.
-- <b>Special Scholarship for Overseas Chinese Students (Top 2%)</b>, Ministry of Education, 2018.
+- <b>Special Prize Scholarship for Overseas Students (Top 2%)</b>, Ministry of Education, 2019.
+- <b>Special Prize Scholarship for Overseas Students (Top 2%)</b>, Ministry of Education, 2018.
 - <b>Outstanding Contribution Award (Top 1%)</b>, National Chiao Tung University, 2016.
 - Winner of Booking.com Hackathon, Taipei, 2017.
 - Winner of Mei-Chu Hackathon, National Chiao Tung and Tsinghua University, 2015.
