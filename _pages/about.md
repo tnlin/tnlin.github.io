@@ -11,10 +11,10 @@ redirect_from:
 <!-- ## Welcome! -->
 
 <p align="center">
-  <img src="https://tnlin.github.io/images/logo-damo.jpg" width="80" hspace="20", vspace="10">
-  <img src="https://tnlin.github.io/images/logo-alibaba.jpg" width="200" hspace="20", vspace="10"> 
-  <img src="https://tnlin.github.io/images/logo-thu.jpg" width="150" hspace="20", vspace="10">
-  <img src="https://tnlin.github.io/images/logo-nctu.png" width="150" hspace="20", vspace="10">
+  <img src="https://tnlin.github.io/images/logo-damo.jpg" width="80" hspace="20" vspace="10">
+  <img src="https://tnlin.github.io/images/logo-alibaba.jpg" width="200" hspace="20" vspace="10"> 
+  <img src="https://tnlin.github.io/images/logo-thu.jpg" width="150" hspace="20" vspace="10">
+  <img src="https://tnlin.github.io/images/logo-nctu.png" width="150" hspace="20" vspace="10">
 </p>
 
 Ting-En (Tony) Lin is a researcher at [Conversational AI  team, Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology/?lang=en). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as program committee for various leading conferences such as ACL/EMNLP/AAAI. Ting-En received his Mphil degree from Computer Science and Technology at the Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
