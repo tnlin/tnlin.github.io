@@ -20,11 +20,11 @@ redirect_from:
 Ting-En (Tony) Lin is a researcher at [Conversational AI  team, Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology/?lang=en). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as program committee for various leading conferences such as ACL/EMNLP/AAAI. Ting-En received his Mphil degree from Computer Science and Technology at the Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
 
 ## News
-- May. 2022: Our paper (duplex conversation) is accepted to [KDD 2022](https://www.kdd.org/kdd2022/)! @Washington DC
+- May. 2022: <b>Duplex Conversation</b>: our multimodal spoken dialogue system that enable human-like interactions, is accepted to [KDD 2022](https://www.kdd.org/kdd2022/)! @Washington DC
 - Feb. 2021: Two papers (open intent detection and discovery) are accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)!
 - Jun. 2020: Received Tsinghua outstanding dissertation and graduate award! (Top 5%)
-- Feb. 2020: CDAC+, a semi-supervised clustering method for open intent discovery, is presented at [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)! @New York
-- Jul. 2019: DeepUnk(LMCL), a simple yet effective method for open intent detection is presented at [ACL 2019](https://acl2019.org/)! @Florence
+- Feb. 2020: <b>CDAC+</b>: a semi-supervised clustering method for open intent discovery, is presented at [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)! @New York
+- Jul. 2019: <b>DeepUnk(LMCL)</b>: a simple yet effective method for open intent detection is presented at [ACL 2019](https://acl2019.org/)! @Florence
 - Jun. 2016: Received NCTU outstanding contribution award! (Top 1%)
 - Dec. 2015: Visit Stanford Research Institute (SRI) for a two-week innovation workshop! @California
 
