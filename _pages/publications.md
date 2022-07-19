@@ -32,15 +32,15 @@ Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Ir
 
 ## Patents
 <b>[CN114267345B 模型训练方法、语音处理方法及其装置]()</b> <br> 
-<b>林廷恩</b>, 武玉川, 李永彬, 孙健. <i>Granted</i>. [[Link]](https://www.patentguru.com/cn/CN114267345B)
+<b>林廷恩</b>, 武玉川, 李永彬, 孙健. <i>Granted</i>. [[Link]](https://patents.google.com/patent/CN114267345B/zh)
 
 <b>[CN114267345A 处理反馈语的方法以及装置]()</b> <br> 
-<b>林廷恩</b>, 武玉川, 李永彬, 孙健. <i>Under review</i>. [[Link]](https://www.patentguru.com/cn/CN114267345A)
+<b>林廷恩</b>, 武玉川, 李永彬, 孙健. <i>Under review</i>. [[Link]](https://patents.google.com/patent/CN114267345A/zh)
 
 <b>[CN114691852A 人机对话系统及方法]()</b> <br> 
-李永彬, 武玉川, 黎航宇, 马文涛, <b>林廷恩</b>, 戴音培, 孙健 <i>Under review</i>. [[Link]](https://www.patentguru.com/cn/CN114691852A)
+李永彬, 武玉川, 黎航宇, 马文涛, <b>林廷恩</b>, 戴音培, 孙健 <i>Under review</i>. [[Link]](https://patents.google.com/patent/CN114691852A/zh)
 
 <b>[CN114077666A 对话意图分类方法、装置和非易失性计算机存储介质]()</b> <br> 
-徐华, 张瀚镭, <b>林廷恩</b>. <i>Under review</i>. [[Link]](https://www.patentguru.com/cn/CN114077666A)
+徐华, 张瀚镭, <b>林廷恩</b>. <i>Under review</i>. [[Link]](https://patents.google.com/patent/CN114077666A/zh)
 
 <!-- https://www.patentguru.com/cn/search?inventor=%22%E6%9E%97%E5%BB%B7%E6%81%A9%22&assignee=%22%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%BE%BE%E6%91%A9%E9%99%A2%EF%BC%88%E6%9D%AD%E5%B7%9E%EF%BC%89%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%22%2C%22%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%22 -->
