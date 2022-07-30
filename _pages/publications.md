@@ -9,22 +9,22 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 
 ## Papers
 <b>[Duplex Conversation: Towards Human-like Interaction in Spoken Dialogue Systems](https://arxiv.org/pdf/2205.15060)</b> <br> 
-<b>Ting-En Lin</b>, Yuchuan Wu, Fei Huang, Luo Si, Jian Sun, Yongbin Li. <i>KDD 2022</i>.
+<b>Ting-En Lin</b>, Yuchuan Wu, Fei Huang, Luo Si, Jian Sun, Yongbin Li. <i>KDD 2022</i>. `(ADS track, acceptance rate: 25.9%)`
 
 <b>[Discovering New Intents with Deep Aligned Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17689/17496)</b> <br> 
-Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>, Rui Lyu. <i>AAAI 2021</i>. [[Code]](https://github.com/thuiar/TEXTOIR)
+Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>, Rui Lyu. <i>AAAI 2021</i>. `(acceptance rate: 21.4%)` [[Code]](https://github.com/thuiar/TEXTOIR)
 
 <b>[Deep Open Intent Classification with Adaptive Decision Boundary](https://www.aaai.org/AAAI21Papers/AAAI-9723.ZhangH.pdf)</b> <br> 
-Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>. <i>AAAI 2021</i>. [[Code]](https://github.com/thuiar/TEXTOIR)
+Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>. <i>AAAI 2021</i>. `(acceptance rate: 21.4%)` [[Code]](https://github.com/thuiar/TEXTOIR)
 
 <b>[Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement](https://ojs.aaai.org/index.php/AAAI/article/download/6353/6209)</b> <br> 
-<b>Ting-En Lin</b>, Hua Xu, Hanlei Zhang. <i>AAAI 2020</i>. [[Code]](https://github.com/thuiar/CDAC-plus/)
+<b>Ting-En Lin</b>, Hua Xu, Hanlei Zhang. <i>AAAI 2020</i>. `(acceptance rate: 20.6%)` [[Code]](https://github.com/thuiar/CDAC-plus/)
 
 <b>[A Post-processing Method for Detecting Unknown Intent of Dialogue System via Pre-trained Deep Neural Network Classifier](https://arxiv.org/pdf/2003.03504)</b> <br> 
-<b>Ting-En Lin</b>, Hua Xu. <i>Knowledge-Based Systems, 2019</i>.
+<b>Ting-En Lin</b>, Hua Xu. <i>Knowledge-Based Systems, 2019</i>. `(SCI, IF=8.139)`
 
 <b>[Deep Unknown Intent Detection with Margin Loss](https://arxiv.org/pdf/1906.00434)</b> <br> 
-<b>Ting-En Lin</b>, Hua Xu. <i>ACL 2019</i>. [[Code]](https://github.com/thuiar/DeepUnkID)
+<b>Ting-En Lin</b>, Hua Xu. <i>ACL 2019</i>. `(short paper, acceptance rate: 18.2%)` [[Code]](https://github.com/thuiar/DeepUnkID)
 
 <b>[Automated Machine Learning for Internet of Things](https://fardapaper.ir/mohavaha/uploads/2017/10/Automated-Machine-Learning-for-Internet-of-Things.pdf)</b> <br> 
 Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Iru Wang. <i>ICCE-TW 2017</i>.
