@@ -17,9 +17,10 @@ redirect_from:
   <img src="https://tnlin.github.io/images/logo-nctu.png" width="150" hspace="20" vspace="10">
 </p>
 
-Ting-En (Tony) Lin is a researcher at [Conversational AI  team, Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology/?lang=en). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as program committee for various leading conferences such as ACL/EMNLP/AAAI. Tony received his Mphil degree from Computer Science and Technology at the Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
+Ting-En (Tony) Lin is a senior researcher at [Conversational AI  team, Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology/?lang=en). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as program committee for various leading conferences such as ACL/EMNLP/AAAI. Tony received his Mphil degree from Computer Science and Technology at the Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
 
 ## News
+- Oct. 2022: <b>UniMSE</b>, our work that unified multimodal sentiment analysis and emotion recognition in conversation, is accepted to [EMNLP 2022](https://2022.emnlp.org/)!
 - May. 2022: <b>Duplex Conversation</b>, our multimodal spoken dialogue system that enable human-like interactions, is accepted to [KDD 2022](https://www.kdd.org/kdd2022/)! @Washington DC
 - Feb. 2021: Two papers (open intent detection and discovery) are accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)!
 - Jun. 2020: Received Tsinghua outstanding dissertation and graduate award! (Top 5%)
