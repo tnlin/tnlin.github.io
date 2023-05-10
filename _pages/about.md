@@ -20,6 +20,9 @@ redirect_from:
 Ting-En (Tony) Lin is a senior researcher at [Conversational AI  team, Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology/?lang=en). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as program committee for various leading conferences such as ACL/EMNLP/AAAI. Tony received his Mphil degree from Computer Science and Technology at the Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
 
 ## News
+- May. 2023: <b>SPECTRA</b>, the first-ever speech-text dialog pre-training model is accepted to [ACL 2023](https://2023.aclweb.org/)!
+- Apr. 2022: <b>Dial-Start</b>, a unsupervised dialogue topic segmentation method is accepted to [SIGIR 2023](https://sigir.org/sigir2023/)!
+- Feb. 2022: <b>ECTG</b>, a empathetic response generation method is accepted to [ICASSP 2023](https://2023.ieeeicassp.org/)!
 - Oct. 2022: <b>UniMSE</b>, our work that unified multimodal sentiment analysis and emotion recognition in conversation, is accepted to [EMNLP 2022](https://2022.emnlp.org/)!
 - May. 2022: <b>Duplex Conversation</b>, our multimodal spoken dialogue system that enable human-like interactions, is accepted to [KDD 2022](https://www.kdd.org/kdd2022/)! @Washington DC
 - Feb. 2021: Two papers (open intent detection and discovery) are accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)!
@@ -39,4 +42,4 @@ Ting-En (Tony) Lin is a senior researcher at [Conversational AI  team, Alibaba D
 - Runner-up of TUAT Entrepreneurship Competition, Japan, 2015.
 
 ## We Are Hiring!
-We are hiring the senior algorithm expert (P8), fresh grads, and [research interns](https://talent.alibaba.com/campus/position-detail?positionId=2000738). Please check the [Alibaba careers](https://talent.alibaba.com/) for our open positions. Feel free to contact me if you need any further information.
+We are hiring the (senior) algorithm expert (P7~P8), fresh grads, and [research interns](https://talent.alibaba.com/campus/position-detail?positionId=2000738). Please check the [Alibaba careers](https://talent.alibaba.com/) for our open positions. Feel free to contact me if you need any further information.
