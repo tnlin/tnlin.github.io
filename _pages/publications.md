@@ -5,14 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFVMAAAAAJ&hl=en) profile for lateset publications.
- <!-- (* denotes equal contribution) -->
+
+ (* denotes equal contribution)
 
 ## Papers
 <b>[Speech-Text Dialog Pre-training for Spoken Dialog Understanding with Explicit Cross-Modal Alignment]()</b> <br> 
-Tianshu Yu\*, Haoyu Gao\*, <b>Ting-En Lin</b>, Min Yang, Yuchuan Wu, Wentao Ma, Chao Wang, Fei Huang, Yongbin Li. <i>ACL 2023</i>.
+Tianshu Yu*, Haoyu Gao\*, <b>Ting-En Lin</b>, Min Yang, Yuchuan Wu, Wentao Ma, Chao Wang, Fei Huang, Yongbin Li. <i>ACL 2023</i>.
 
 <b>[Unsupervised Dialogue Topic Segmentation with Topic-aware Utterance Representation](https://arxiv.org/pdf/2305.02747.pdf)</b> <br> 
-Haoyu Gao\*, Rui Wang\*, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <i>SIGIR 2023</i>.
+Haoyu Gao*, Rui Wang\*, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <i>SIGIR 2023</i>.
 
 <b>[Empathetic Response Generation via Emotion Cause Transition Graph](https://arxiv.org/pdf/2205.15060)</b> <br> 
 Yushan Qian, Bo Wang, <b>Ting-En Lin</b>, Yinhe Zheng, Ying Zhu, Dongming Zhao, Yuexian Hou, Yuchuan Wu, Yongbin Li. <i>ICASSP 2023</i>.
