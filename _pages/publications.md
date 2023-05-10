@@ -4,16 +4,14 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFVMAAAAAJ&hl=en) profile for lateset publications.
-
- (* denotes equal contribution)
+Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFVMAAAAAJ&hl=en) profile for lateset publications. (* denotes equal contribution)
 
 ## Papers
 <b>[Speech-Text Dialog Pre-training for Spoken Dialog Understanding with Explicit Cross-Modal Alignment]()</b> <br> 
-Tianshu Yu*, Haoyu Gao\*, <b>Ting-En Lin</b>, Min Yang, Yuchuan Wu, Wentao Ma, Chao Wang, Fei Huang, Yongbin Li. <i>ACL 2023</i>.
+Tianshu Yu\*, Haoyu Gao\*, <b>Ting-En Lin</b>, Min Yang, Yuchuan Wu, Wentao Ma, Chao Wang, Fei Huang, Yongbin Li. <i>ACL 2023</i>.
 
 <b>[Unsupervised Dialogue Topic Segmentation with Topic-aware Utterance Representation](https://arxiv.org/pdf/2305.02747.pdf)</b> <br> 
-Haoyu Gao*, Rui Wang\*, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <i>SIGIR 2023</i>.
+Haoyu Gao\*, Rui Wang\*, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <i>SIGIR 2023</i>.
 
 <b>[Empathetic Response Generation via Emotion Cause Transition Graph](https://arxiv.org/pdf/2205.15060)</b> <br> 
 Yushan Qian, Bo Wang, <b>Ting-En Lin</b>, Yinhe Zheng, Ying Zhu, Dongming Zhao, Yuexian Hou, Yuchuan Wu, Yongbin Li. <i>ICASSP 2023</i>.
@@ -49,6 +47,7 @@ Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Ir
 
 <b>[CN114691852A 人机对话系统及方法](https://patents.google.com/patent/CN114691852A/zh)</b> <br> 
 李永彬, 武玉川, 黎航宇, 马文涛, <b>林廷恩</b>, 戴音培, 孙健 <i>Granted</i>.
+
 <!-- 
 <b>[CN113887554A 处理反馈语的方法以及装置](https://patents.google.com/patent/CN113887554A/zh)</b> <br> 
 <b>林廷恩</b>, 武玉川, 李永彬, 孙健. <i>Under review</i>.
