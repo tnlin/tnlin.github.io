@@ -55,5 +55,6 @@ Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Ir
 
 <b>[CN114077666A 对话意图分类方法、装置和非易失性计算机存储介质](https://patents.google.com/patent/CN114077666A/zh)</b> <br> 
 徐华, 张瀚镭, <b>林廷恩</b>. <i>Under review</i>.
- -->
-<!-- https://www.patentguru.com/cn/search?inventor=%22%E6%9E%97%E5%BB%B7%E6%81%A9%22&assignee=%22%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%BE%BE%E6%91%A9%E9%99%A2%EF%BC%88%E6%9D%AD%E5%B7%9E%EF%BC%89%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%22%2C%22%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%22 -->
+
+https://www.patentguru.com/cn/search?inventor=%22%E6%9E%97%E5%BB%B7%E6%81%A9%22&assignee=%22%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%BE%BE%E6%91%A9%E9%99%A2%EF%BC%88%E6%9D%AD%E5%B7%9E%EF%BC%89%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%22%2C%22%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%22 
+-->
