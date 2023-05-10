@@ -9,10 +9,10 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 
 ## Papers
 <b>[Speech-Text Dialog Pre-training for Spoken Dialog Understanding with Explicit Cross-Modal Alignment]()</b> <br> 
-Tianshu Yu*, Haoyu Gao*, <b>Ting-En Lin</b>, Min Yang, Yuchuan Wu, Wentao Ma, Chao Wang, Fei Huang, Yongbin Li. <i>ACL 2023</i>.
+Tianshu Yu\*, Haoyu Gao\*, <b>Ting-En Lin</b>, Min Yang, Yuchuan Wu, Wentao Ma, Chao Wang, Fei Huang, Yongbin Li. <i>ACL 2023</i>.
 
 <b>[Unsupervised Dialogue Topic Segmentation with Topic-aware Utterance Representation](https://arxiv.org/pdf/2305.02747.pdf)</b> <br> 
-Haoyu Gao*, Rui Wang*, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <i>SIGIR 2023</i>.
+Haoyu Gao\*, Rui Wang\*, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <i>SIGIR 2023</i>.
 
 <b>[Empathetic Response Generation via Emotion Cause Transition Graph](https://arxiv.org/pdf/2205.15060)</b> <br> 
 Yushan Qian, Bo Wang, <b>Ting-En Lin</b>, Yinhe Zheng, Ying Zhu, Dongming Zhao, Yuexian Hou, Yuchuan Wu, Yongbin Li. <i>ICASSP 2023</i>.
@@ -38,8 +38,8 @@ Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>. <i>AAAI 2021</i>. `acceptance rate: 21
 <b>[Deep Unknown Intent Detection with Margin Loss](https://aclanthology.org/P19-1548.pdf)</b> <br> 
 <b>Ting-En Lin</b>, Hua Xu. <i>ACL 2019</i>. `short paper, acceptance rate: 18.2%` [[Code]](https://github.com/thuiar/DeepUnkID)
 
-<b>[Automated Machine Learning for Internet of Things](https://ieeexplore.ieee.org/abstract/document/7991112)</b> <br> 
-Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Iru Wang. <i>ICCE-TW 2017</i>.
+<!-- <b>[Automated Machine Learning for Internet of Things](https://ieeexplore.ieee.org/abstract/document/7991112)</b> <br> 
+Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Iru Wang. <i>ICCE-TW 2017</i>. -->
 
 
 ## Patents
