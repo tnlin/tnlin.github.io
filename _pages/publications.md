@@ -7,6 +7,15 @@ author_profile: true
 Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFVMAAAAAJ&hl=en) profile for lateset publications. (* denotes equal contribution)
 
 ## Papers
+<b>[Intent Recognition for Human-Machine Interactions]()</b> <br> 
+Hua Xu, Hanlei Zhang, <b>Ting-En Lin</b>. <I>Springer</i>.
+
+<b>[SpokenWOZ: A Large-Scale Speech-Text Benchmark for Spoken Task-Oriented Dialogue Agents]()</b> <br> 
+Shuzheng Si, Wentao Ma, Haoyu Gao, Yuchuan Wu, <b>Ting-En Lin</b>, Yinpei Dai, Hangyu Li, Rui Yan, Fei Huang, Yongbin Li. <i>arxiv</i>.
+
+<b>[UniSA: Unified Generative Framework for Sentiment Analysis]()</b> <br> 
+Zaijing Li, <b>Ting-En Lin</b>, Yuchuan Wu, Meng Liu, Fengxiao Tang, Ming Zhao, Yongbin Li. <i>arxiv</i>.
+
 <b>[Speech-Text Dialog Pre-training for Spoken Dialog Understanding with Explicit Cross-Modal Alignment]()</b> <br> 
 Tianshu Yu\*, Haoyu Gao\*, <b>Ting-En Lin</b>, Min Yang, Yuchuan Wu, Wentao Ma, Chao Wang, Fei Huang, Yongbin Li. <i>ACL 2023</i>.
 
