@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFVMAAAAAJ&hl=en) profile for lateset publications. (* denotes equal contribution)
+Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFVMAAAAAJ&hl=en) profile for the latest publications. (* denotes equal contribution)
 
 ## Papers
 <b>[Intent Recognition for Human-Machine Interactions]()</b> <br> 
