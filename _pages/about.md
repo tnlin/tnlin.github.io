@@ -20,7 +20,7 @@ redirect_from:
 Ting-En (Tony) Lin is a senior researcher at [Conversational AI  team, Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology/?lang=en). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as program committee for various leading conferences such as ACL/EMNLP/AAAI. Tony received his Mphil degree from Computer Science and Technology at the Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
 
 ## News
-- Jul. 2023: <b>UniSA</b>, a Task-Specific Prompt method to jointly model subtasks and introduce a multimodal generative framework, is accepted to [ACM MM 2023](https://www.acmmm2023.org/)!@Ottawa
+- Jul. 2023: <b>UniSA</b>, a unified multimodal generative framework for sentiment analysis, is accepted to [ACM MM 2023](https://www.acmmm2023.org/)!@Ottawa
 - Jun. 2023: <b>Tongyi Tingwu</b> - Alibaba's premiere AI Assistant for Work and Study, debuts in June 2023 as China's first public beta LLM application product.
 - May. 2023: <b>SPECTRA</b>, the first-ever speech-text dialog pre-training model is accepted to [ACL 2023](https://2023.aclweb.org/)!@Toronto
 - Apr. 2022: <b>Dial-Start</b>, a method for unsupervised dialogue topic segmentation is accepted to [SIGIR 2023](https://sigir.org/sigir2023/)!@Taipei
