@@ -7,24 +7,29 @@ author_profile: true
 Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFVMAAAAAJ&hl=en) profile for the latest publications. (* denotes equal contribution)
 
 ## Papers
-<b>[Intent Recognition for Human-Machine Interactions]()</b> <br> 
-Hua Xu, Hanlei Zhang, <b>Ting-En Lin</b>. <I>Springer</i>.
+### 2023 - Now
+<b>[Constructive Large Language Models Alignment with Diverse Feedback](https://arxiv.org/abs/2310.06450)</b> <br> 
+Tianshu Yu, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>Under review</i>.
 
-<b>[SpokenWOZ: A Large-Scale Speech-Text Benchmark for Spoken Task-Oriented Dialogue Agents]()</b> <br> 
-Shuzheng Si, Wentao Ma, Haoyu Gao, Yuchuan Wu, <b>Ting-En Lin</b>, Yinpei Dai, Hangyu Li, Rui Yan, Fei Huang, Yongbin Li. <i>arxiv</i>.
+<b>[Intent Recognition for Human-Machine Interactions](https://link.springer.com/book/10.1007/978-981-99-3885-8)</b> <br> 
+Hua Xu, Hanlei Zhang, <b>Ting-En Lin</b>. <I>Springer 2023</i>.
 
-<b>[UniSA: Unified Generative Framework for Sentiment Analysis]()</b> <br> 
-Zaijing Li, <b>Ting-En Lin</b>, Yuchuan Wu, Meng Liu, Fengxiao Tang, Ming Zhao, Yongbin Li. <i>arxiv</i>.
+<b>[SpokenWOZ: A Large-Scale Speech-Text Benchmark for Spoken Task-Oriented Dialogue Agents](https://arxiv.org/abs/2305.13040)</b> <br> 
+Shuzheng Si, Wentao Ma, Haoyu Gao, Yuchuan Wu, <b>Ting-En Lin</b>, Yinpei Dai, Hangyu Li, Rui Yan, Fei Huang, Yongbin Li. <i>NeurIPS 2023</i>. `Dataset track, acceptance rate: 32.7%`
 
-<b>[Speech-Text Dialog Pre-training for Spoken Dialog Understanding with Explicit Cross-Modal Alignment]()</b> <br> 
-Tianshu Yu\*, Haoyu Gao\*, <b>Ting-En Lin</b>, Min Yang, Yuchuan Wu, Wentao Ma, Chao Wang, Fei Huang, Yongbin Li. <i>ACL 2023</i>.
+<b>[UniSA: Unified Generative Framework for Sentiment Analysis](https://arxiv.org/abs/2309.01339)</b> <br> 
+Zaijing Li, <b>Ting-En Lin</b>, Yuchuan Wu, Meng Liu, Fengxiao Tang, Ming Zhao, Yongbin Li. <i>ACM MM 2023</i>. `acceptance rate: 29.3%`
+
+<b>[Speech-Text Dialog Pre-training for Spoken Dialog Understanding with Explicit Cross-Modal Alignment](https://arxiv.org/abs/2305.11579)</b> <br> 
+Tianshu Yu\*, Haoyu Gao\*, <b>Ting-En Lin</b>, Min Yang, Yuchuan Wu, Wentao Ma, Chao Wang, Fei Huang, Yongbin Li. <i>ACL 2023</i>. `acceptance rate: 23.5%%`
 
 <b>[Unsupervised Dialogue Topic Segmentation with Topic-aware Utterance Representation](https://arxiv.org/pdf/2305.02747.pdf)</b> <br> 
-Haoyu Gao\*, Rui Wang\*, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <i>SIGIR 2023</i>.
+Haoyu Gao\*, Rui Wang\*, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <i>SIGIR 2023</i>. `short paper, acceptance rate: 25.12%`
 
 <b>[Empathetic Response Generation via Emotion Cause Transition Graph](https://arxiv.org/pdf/2205.15060)</b> <br> 
 Yushan Qian, Bo Wang, <b>Ting-En Lin</b>, Yinhe Zheng, Ying Zhu, Dongming Zhao, Yuexian Hou, Yuchuan Wu, Yongbin Li. <i>ICASSP 2023</i>.
 
+### - 2022
 <b>[UniMSE: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition](https://arxiv.org/pdf/2205.15060)</b> <br> 
 Guimin Hu, <b>Ting-En Lin</b>, Yi Zhao, Guangming Lu, Yuchuan Wu, Yongbin Li. <i>EMNLP 2022</i>. `acceptance rate: 22.1%` [[Code]](https://github.com/lemei/unimse)
 
@@ -48,7 +53,6 @@ Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>. <i>AAAI 2021</i>. `acceptance rate: 21
 
 <!-- <b>[Automated Machine Learning for Internet of Things](https://ieeexplore.ieee.org/abstract/document/7991112)</b> <br> 
 Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Iru Wang. <i>ICCE-TW 2017</i>. -->
-
 
 ## Patents
 <b>[CN114267345B 模型训练方法、语音处理方法及其装置](https://patents.google.com/patent/CN114267345B/zh)</b> <br> 
