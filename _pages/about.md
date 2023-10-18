@@ -20,8 +20,9 @@ redirect_from:
 Ting-En (Tony) Lin is a senior researcher at [Conversational AI  team, Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology/?lang=en). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as a program committee for various leading conferences such as ACL/EMNLP/AAAI. Tony received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
 
 ## News
+- Sep. 2023: <b>SpokenWoz</b>, a bi-modal new benchmark for spoken dialogue agents, is accepted to [NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)!@New Orleans
 - Jul. 2023: <b>UniSA</b>, a unified multimodal generative framework for sentiment analysis, is accepted to [ACM MM 2023](https://www.acmmm2023.org/)!@Ottawa
-- Jun. 2023: <b>Tongyi Tingwu</b> - Unveiled as Alibaba's state-of-the-art AI Assistant for both Work and Study, it stands as China's first LLM application product to enter public beta, boasting powerful summarization capabilities powered by us.
+- Jun. 2023: <b>[Tongyi Tingwu](https://tingwu.aliyun.com/)</b> - Unveiled as Alibaba's state-of-the-art AI Assistant for both Work and Study, it stands as China's first LLM application product to enter public beta, boasting powerful summarization capabilities powered by us.
 - May. 2023: <b>SPECTRA</b>, the first-ever speech-text dialogue pre-training model, is accepted to [ACL 2023](https://2023.aclweb.org/)!@Toronto
 - Apr. 2022: <b>Dial-Start</b>, a method for unsupervised dialogue topic segmentation, is accepted to [SIGIR 2023](https://sigir.org/sigir2023/)!@Taipei
 - Feb. 2022: <b>ECTG</b>, an empathetic response generation method, is accepted to [ICASSP 2023](https://2023.ieeeicassp.org/)!@Rhodes
@@ -43,5 +44,7 @@ Ting-En (Tony) Lin is a senior researcher at [Conversational AI  team, Alibaba D
 - Winner of Mei-Chu Hackathon, National Chiao Tung and Tsinghua University, 2015.
 - Runner-up of TUAT Entrepreneurship Competition, Japan, 2015.
 
-## We Are Hiring!
-We are hiring the (senior) algorithm expert (P7~P8), fresh grads, and [research interns](https://talent.alibaba.com/campus/position-detail?positionId=2000738). Please check the [Alibaba careers](https://talent.alibaba.com/) for our open positions. Feel free to contact me if you need any further information.
+## We Are Hiring! (2023.10)
+We are actively hiring NLP algorithm experts (P6~P8).  Feel free to contact me if you need any further information.
+
+<!-- , fresh grads, and [research interns](https://talent.alibaba.com/campus/position-detail?positionId=2000738) -->
