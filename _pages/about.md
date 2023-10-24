@@ -46,18 +46,10 @@ Ting-En (Tony) Lin is a senior researcher at [Conversational AI  team, Alibaba D
 
 ## Professional Services
 Reviewer / Program Committee Member in:
-- **Natural Language Processing (NLP)**
-	* ACL/ARR (22/23/24)
-	* EMNLP (21/22/23)
-- **Artificial Intelligent (AI)**
-	* AAAI (21/22/23/24)
-	* IJCAI (23)
-- **Data Mining (DM)**
-	* KDD (23)
-	* WSDM (22/24)
-- **Others/Journal**
-	* ICASSP(24) / ...
-  * TMM / KBS / EWSA / ...
+- **Natural Language Processing (NLP)**: ACL/ARR 22/23/24, EMNLP 21/22/23
+- **Artificial Intelligent (AI)**: AAAI 21/22/23/24, IJCAI 23
+- **Data Mining (DM)**: KDD 23, WSDM 22/24
+- **Journal and Others**: ICASSP 24 / TMM / KBS / EWSA ...
 
 ## We Are Hiring! (2023.10)
 We are actively hiring NLP algorithm experts (P6~P8).  Feel free to contact me if you need any further information.
