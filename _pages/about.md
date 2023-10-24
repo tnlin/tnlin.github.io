@@ -19,8 +19,6 @@ redirect_from:
 
 Ting-En (Tony) Lin is a senior researcher at [Conversational AI  team, Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology/?lang=en). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as a program committee for various leading conferences such as ACL/EMNLP/AAAI. Tony received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
 
-[![Page Views](https://badges.toozhao.com/badges/01HDFPSGSP5M786DV2YXNVP9CC/green.svg)](https://badges.toozhao.com/stats/01HDFPSGSP5M786DV2YXNVP9CC)
-
 ## News
 - Sep. 2023: <b>SpokenWoz</b>, a bi-modal new benchmark for spoken dialogue agents, is accepted to [NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)!@New Orleans
 - Jul. 2023: <b>UniSA</b>, a unified multimodal generative framework for sentiment analysis, is accepted to [ACM MM 2023](https://www.acmmm2023.org/)!@Ottawa
@@ -46,7 +44,25 @@ Ting-En (Tony) Lin is a senior researcher at [Conversational AI  team, Alibaba D
 - Winner of Mei-Chu Hackathon, National Chiao Tung and Tsinghua University, 2015.
 - Runner-up of TUAT Entrepreneurship Competition, Japan, 2015.
 
+## Professional Services
+Reviewer / Program Committee Member in:
+- **Natural Language Processing (NLP)**
+	* ACL/ARR (22/23/24)
+	* EMNLP (21/22/23)
+- **Artificial Intelligent (AI)**
+	* AAAI (21/22/23/24)
+	* IJCAI (23)
+- **Data Mining (DM)**
+	* KDD (23)
+	* WSDM (22/24)
+- **Others/Journal**
+	* ICASSP(24) / ...
+  * TMM / KBS / EWSA / ...
+
 ## We Are Hiring! (2023.10)
 We are actively hiring NLP algorithm experts (P6~P8).  Feel free to contact me if you need any further information.
 
+[![Page Views](https://badges.toozhao.com/badges/01HDFPSGSP5M786DV2YXNVP9CC/green.svg)](https://badges.toozhao.com/stats/01HDFPSGSP5M786DV2YXNVP9CC)
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qhBuDaoMi9s7yNPWZvMsyT0S2IpyxUIMI5gPHrm2BCM&cl=ffffff&w=a"></script>
 <!-- , fresh grads, and [research interns](https://talent.alibaba.com/campus/position-detail?positionId=2000738) -->
