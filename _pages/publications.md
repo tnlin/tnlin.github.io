@@ -58,7 +58,7 @@ Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Ir
 <b>[CN114267345B 模型训练方法、语音处理方法及其装置](https://patents.google.com/patent/CN114267345B/zh)</b> <br> 
 <b>林廷恩</b>, 武玉川, 李永彬, 孙健. <i>Granted</i>.
 
-<b>[CN114691852A 人机对话系统及方法](https://patents.google.com/patent/CN114691852A/zh)</b> <br> 
+<b>[CN114691852B 人机对话系统及方法](https://patents.google.com/patent/CN114691852B/zh)</b> <br> 
 李永彬, 武玉川, 黎航宇, 马文涛, <b>林廷恩</b>, 戴音培, 孙健 <i>Granted</i>.
 
 <!-- 
