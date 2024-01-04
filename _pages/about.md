@@ -17,7 +17,7 @@ redirect_from:
   <img src="https://tnlin.github.io/images/logo-nctu.png" width="150" hspace="20" vspace="10">
 </p>
 
-Ting-En (Tony) Lin is a senior researcher at [Conversational AI  team, Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology/?lang=en). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as a program committee for various leading conferences such as ACL/EMNLP/AAAI. Tony received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
+Ting-En (Tony) Lin is a senior researcher at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as a program committee for various leading conferences such as ACL/EMNLP/AAAI. Tony received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
 
 [![Page Views](https://badges.toozhao.com/badges/01HDFPSGSP5M786DV2YXNVP9CC/green.svg)](https://badges.toozhao.com/stats/01HDFPSGSP5M786DV2YXNVP9CC)
 
@@ -56,8 +56,8 @@ Reviewer / Program Committee Member in:
 - **Data Mining (DM)**: KDD 23, WSDM 22/24
 - **Journal and Others**: TKDE / TMM / KBS / ICASSP 24 ...
 
-## We Are Hiring! (2023.10)
-We are actively hiring NLP algorithm experts (P6~P8).  Feel free to contact me if you need any further information.
+## We Are Hiring! (2024.1)
+We are actively hiring NLP algorithm experts (P6~P7).  Feel free to contact me if you need any further information.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=qhBuDaoMi9s7yNPWZvMsyT0S2IpyxUIMI5gPHrm2BCM&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 <!-- , fresh grads, and [research interns](https://talent.alibaba.com/campus/position-detail?positionId=2000738) -->
