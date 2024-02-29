@@ -11,15 +11,15 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 <b>[Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455)</b> <br> 
 Yuhan Chen, Ang Lv, <b>Ting-En Lin</b>, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. <I>Arxiv</i>.
 
-<!-- <b>[Improving Factual Consistency of Text Summarization by Adversarially Decoupling Comprehension and Embellishment Abilities of LLMs](https://arxiv.org/abs/2310.19347)</b> <br> 
+<b>[Improving Factual Consistency of Text Summarization by Adversarially Decoupling Comprehension and Embellishment Abilities of LLMs](https://arxiv.org/abs/2310.19347)</b> <br> 
 Huawen Feng, Yan Fan, Xiong Liu, <b>Ting-En Lin</b>, Zekun Yao, Yuchuan Wu, Fei Huang, Yongbin Li, Qianli Ma. <I>Arxiv</i>.
--->
+
 <b>[Constructive Large Language Models Alignment with Diverse Feedback](https://arxiv.org/abs/2310.06450)</b> <br> 
 Tianshu Yu, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>Arxiv</i>.
 
-<!-- <b>[Self-Explanation Prompting Improves Dialogue Understanding in Large Language Models](https://arxiv.org/abs/2309.12940)</b> <br> 
-Haoyu Gao, <b>Ting-En Lin</b>, Hangyu Li, Min Yang, Yuchuan Wu, Wentao Ma, Yongbin Li. <I>Arxiv</i>.
--->
+<b>[Self-Explanation Prompting Improves Dialogue Understanding in Large Language Models](https://arxiv.org/abs/2309.12940)</b> <br> 
+Haoyu Gao, <b>Ting-En Lin</b>, Hangyu Li, Min Yang, Yuchuan Wu, Wentao Ma, Yongbin Li. <I>LREC-COLING 2024</i>.
+
 <b>[Intent Recognition for Human-Machine Interactions](https://link.springer.com/book/10.1007/978-981-99-3885-8)</b> <br> 
 Hua Xu, Hanlei Zhang, <b>Ting-En Lin</b>. <I>Springer 2023</i>.
 
