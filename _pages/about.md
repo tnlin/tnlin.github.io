@@ -23,6 +23,7 @@ Ting-En (Tony) Lin is a senior researcher at [Tongyi Laboratory, Alibaba Group](
 
 ## News
 #### 2023 - Now
+- Sep. 2024: <b>Self-Explanation</b>, a simple yet effective LLM prompting method to improve task-oriented dialogue understanding, is accepted to [LREC-COLING 2024](https://lrec-coling-2024.org/)!@Torino
 - Sep. 2023: <b>SpokenWoz</b>, a bi-modal new benchmark for spoken dialogue agents, is accepted to [NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)!@New Orleans
 - Jul. 2023: <b>UniSA</b>, a unified multimodal generative framework for sentiment analysis, is accepted to [ACM MM 2023](https://www.acmmm2023.org/)!@Ottawa
 - Jun. 2023: <b>[Tongyi Tingwu](https://tingwu.aliyun.com/)</b> - Unveiled as Alibaba's state-of-the-art AI Assistant for both Work and Study, it stands as China's first LLM application product to enter public beta, boasting powerful summarization capabilities powered by us.
