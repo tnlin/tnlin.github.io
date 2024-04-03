@@ -10,7 +10,7 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 ### 2023 - Now
 <b>[Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models
 ](https://arxiv.org/abs/2403.02178)</b> <br> 
-Changyu Chen, Xiting Wang, <b>Ting-En Lin<b>, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. <I>Arxiv</i>.
+Changyu Chen, Xiting Wang, <b>Ting-En Lin</b>, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. <I>Arxiv</i>.
 
 <b>[Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455)</b> <br> 
 Yuhan Chen, Ang Lv, <b>Ting-En Lin</b>, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. <I>Arxiv</i>.
