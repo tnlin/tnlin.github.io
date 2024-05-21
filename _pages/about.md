@@ -22,9 +22,11 @@ Ting-En (Tony) Lin is a senior researcher at [Tongyi Laboratory, Alibaba Group](
 [![Page Views](https://badges.toozhao.com/badges/01HDFPSGSP5M786DV2YXNVP9CC/green.svg)](https://badges.toozhao.com/stats/01HDFPSGSP5M786DV2YXNVP9CC)
 
 ## News
-#### 2023 ~ Now
+#### 2024
 - May. 2024: Our two papers, **Attention Bucket** and **Masked Thought** on LLM tools and planning, have been accepted to [ACL 2024](https://2024.aclweb.org/)!@Bangkok
 - Apr. 2024: We are pleased to introduce our latest survey: **A Survey on Self-Evolution of Large Language Models**, which presents a conceptual framework for the self-evolution of LLMs (such as WizardLM, LLaMA, and Phi). Check it out on [arXiv](https://arxiv.org/abs/2404.14387).
+
+#### 2023
 - Sep. 2023: <b>Self-Explanation</b>, a simple yet effective LLM prompting method to improve task-oriented dialogue understanding, is accepted to [LREC-COLING 2024](https://lrec-coling-2024.org/)!@Torino
 - Sep. 2023: <b>SpokenWoz</b>, a bi-modal new benchmark for spoken dialogue agents, is accepted to [NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)!@New Orleans
 - Jul. 2023: <b>UniSA</b>, a unified multimodal generative framework for sentiment analysis, is accepted to [ACM MM 2023](https://www.acmmm2023.org/)!@Ottawa
