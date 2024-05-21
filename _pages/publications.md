@@ -7,14 +7,18 @@ author_profile: true
 Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFVMAAAAAJ&hl=en) profile for the latest publications. (* denotes equal contribution)
 
 ## Papers
-### 2023 - Now
+### 2024
+[**A Survey on Self-Evolution of Large Language Models** ](https://arxiv.org/abs/2404.14387) <br> 
+Zhengwei Tao, **Ting-En Lin**, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou. <I>Arxiv</i>.
+
 <b>[Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models
 ](https://arxiv.org/abs/2403.02178)</b> <br> 
-Changyu Chen, Xiting Wang, <b>Ting-En Lin</b>, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. <I>Arxiv</i>.
+Changyu Chen, Xiting Wang, <b>Ting-En Lin</b>, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. <I>ACL 2024</i>.
 
 <b>[Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455)</b> <br> 
-Yuhan Chen, Ang Lv, <b>Ting-En Lin</b>, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. <I>Arxiv</i>.
+Yuhan Chen, Ang Lv, <b>Ting-En Lin</b>, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. <I>ACL 2024</i>.
 
+### 2023
 <b>[Improving Factual Consistency of Text Summarization by Adversarially Decoupling Comprehension and Embellishment Abilities of LLMs](https://arxiv.org/abs/2310.19347)</b> <br> 
 Huawen Feng, Yan Fan, Xiong Liu, <b>Ting-En Lin</b>, Zekun Yao, Yuchuan Wu, Fei Huang, Yongbin Li, Qianli Ma. <I>Arxiv</i>.
 
