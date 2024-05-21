@@ -22,11 +22,11 @@ Ting-En (Tony) Lin is a senior researcher at [Tongyi Laboratory, Alibaba Group](
 [![Page Views](https://badges.toozhao.com/badges/01HDFPSGSP5M786DV2YXNVP9CC/green.svg)](https://badges.toozhao.com/stats/01HDFPSGSP5M786DV2YXNVP9CC)
 
 ## News
-#### 2024
+### 2024
 - May. 2024: Our two papers, **Attention Bucket** and **Masked Thought** on LLM tools and planning, have been accepted to [ACL 2024](https://2024.aclweb.org/)!@Bangkok
 - Apr. 2024: We are pleased to introduce our latest survey: **A Survey on Self-Evolution of Large Language Models**, which presents a conceptual framework for the self-evolution of LLMs (such as WizardLM, LLaMA, and Phi). Check it out on [arXiv](https://arxiv.org/abs/2404.14387).
 
-#### 2023
+### 2023
 - Sep. 2023: <b>Self-Explanation</b>, a simple yet effective LLM prompting method to improve task-oriented dialogue understanding, is accepted to [LREC-COLING 2024](https://lrec-coling-2024.org/)!@Torino
 - Sep. 2023: <b>SpokenWoz</b>, a bi-modal new benchmark for spoken dialogue agents, is accepted to [NeurIPS 2023](https://nips.cc/Conferences/2023/Dates)!@New Orleans
 - Jul. 2023: <b>UniSA</b>, a unified multimodal generative framework for sentiment analysis, is accepted to [ACM MM 2023](https://www.acmmm2023.org/)!@Ottawa
@@ -35,7 +35,7 @@ Ting-En (Tony) Lin is a senior researcher at [Tongyi Laboratory, Alibaba Group](
 - Apr. 2023: <b>Dial-Start</b>, a method for unsupervised dialogue topic segmentation, is accepted to [SIGIR 2023](https://sigir.org/sigir2023/)!@Taipei
 - Feb. 2023: <b>ECTG</b>, an empathetic response generation method, is accepted to [ICASSP 2023](https://2023.ieeeicassp.org/)!@Rhodes
 
-#### ~ 2022
+### ~ 2022
 - Oct. 2022: <b>UniMSE</b>, our work that unified multimodal sentiment analysis and emotion recognition in conversation, is accepted to [EMNLP 2022](https://2022.emnlp.org/)!@Abu Dhabi
 - May. 2022: <b>Duplex Conversation</b>, our multimodal spoken dialogue system that enables human-like interactions, is accepted to [KDD 2022](https://www.kdd.org/kdd2022/)! @Washington DC
 - Feb. 2021: Two papers (open intent detection and discovery) are accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)!
@@ -61,8 +61,8 @@ Reviewer / Program Committee Member in:
 - **Data Mining (DM)**: KDD 23, WSDM 22/24
 - **Journal and Others**: TKDE / TMM / KBS / ICASSP 24 ...
 
-## We Are Hiring! (2024.1)
-We are actively hiring NLP algorithm experts (P6~P7).  Feel free to contact me if you need any further information.
+## We Are Hiring! (2024.5)
+We are actively hiring interns and recent graduates, including PhD holders. Feel free to contact me if you need any further information.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=qhBuDaoMi9s7yNPWZvMsyT0S2IpyxUIMI5gPHrm2BCM&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 <!-- , fresh grads, and [research interns](https://talent.alibaba.com/campus/position-detail?positionId=2000738) -->
