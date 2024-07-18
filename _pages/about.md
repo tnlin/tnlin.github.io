@@ -11,7 +11,7 @@ redirect_from:
 <!-- ## Welcome! -->
 
 <p align="center">
-  <img src="https://tnlin.github.io/images/logo-damo.jpg" width="80" hspace="20" vspace="10">
+  <img src="https://tnlin.github.io/images/logo-Tongyi.png" width="50" hspace="20" vspace="10">
   <img src="https://tnlin.github.io/images/logo-alibaba.jpg" width="200" hspace="20" vspace="10"> 
   <img src="https://tnlin.github.io/images/logo-thu.jpg" width="150" hspace="20" vspace="10">
   <img src="https://tnlin.github.io/images/logo-nctu.png" width="150" hspace="20" vspace="10">
@@ -52,7 +52,7 @@ Ting-En (Tony) Lin is a senior researcher at [Tongyi Laboratory, Alibaba Group](
 - <b>Outstanding Contribution Award (Top 1%)</b>, National Chiao Tung University, 2016.
 - Winner of Booking.com Hackathon, Taipei, 2017.
 - Winner of Mei-Chu Hackathon, National Chiao Tung and Tsinghua University, 2015.
-- Runner-up of TUAT Entrepreneurship Competition, Japan, 2015.
+- Runner-up of the TUAT Entrepreneurship Competition, Japan, 2015.
 
 ## Professional Services
 Reviewer / Program Committee Member in:
@@ -61,8 +61,8 @@ Reviewer / Program Committee Member in:
 - **Data Mining (DM)**: KDD 23, WSDM 22/24
 - **Journal and Others**: TKDE / TMM / KBS / ICASSP 24 ...
 
-## We Are Hiring! (2024.5)
-We are actively hiring interns and recent graduates, including PhD holders. Feel free to contact me if you need any further information.
+## We Are Hiring! (2024.7)
+We are actively hiring interns and recent graduates, including PhD holders. Please feel free to contact me if you need further information.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=qhBuDaoMi9s7yNPWZvMsyT0S2IpyxUIMI5gPHrm2BCM&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 <!-- , fresh grads, and [research interns](https://talent.alibaba.com/campus/position-detail?positionId=2000738) -->
