@@ -8,15 +8,20 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 
 ## Papers
 ### 2024
+[**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct** ]() <br> 
+Run Luo\*, Haonan Zhang\*, Longze Chen\*, **Ting-En Lin\***, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. <I>Arxiv</i>.
+
+[**Target Shaping for Data Selection in Targeted Instruction Tuning** ]() <br> 
+Changyu Chen, **Ting-En Lin**, Yuchuan Wu, Yongbin Li, Rui Yan. <I>Arxiv</i>.
+
 [**A Survey on Self-Evolution of Large Language Models** ](https://arxiv.org/abs/2404.14387) <br> 
 Zhengwei Tao, **Ting-En Lin**, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou. <I>Arxiv</i>.
 
-<b>[Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models
-](https://arxiv.org/abs/2403.02178)</b> <br> 
-Changyu Chen, Xiting Wang, <b>Ting-En Lin</b>, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. <I>ACL 2024</i>.
+[**Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models**](https://arxiv.org/abs/2403.02178) <br> 
+Changyu Chen, Xiting Wang, **Ting-En Lin**, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. <I>ACL 2024</i>. `acceptance rate: 21.3%`
 
-<b>[Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455)</b> <br> 
-Yuhan Chen, Ang Lv, <b>Ting-En Lin</b>, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. <I>ACL 2024</i>.
+[**Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use**](https://arxiv.org/abs/2312.04455) <br> 
+Yuhan Chen\*, Ang Lv\*, **Ting-En Lin**, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. <I>ACL 2024</i>. `acceptance rate: 21.3%`
 
 ### 2023
 <b>[Improving Factual Consistency of Text Summarization by Adversarially Decoupling Comprehension and Embellishment Abilities of LLMs](https://arxiv.org/abs/2310.19347)</b> <br> 
@@ -73,10 +78,13 @@ Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Ir
 
 ## Patents
 <b>[CN114267345B 模型训练方法、语音处理方法及其装置](https://patents.google.com/patent/CN114267345B/zh)</b> <br> 
-<b>林廷恩</b>, 武玉川, 李永彬, 孙健. <i>Granted</i>.
+**林廷恩**, 武玉川, 李永彬, 孙健. <i>Granted</i>.
 
 <b>[CN114691852B 人机对话系统及方法](https://patents.google.com/patent/CN114691852B/zh)</b> <br> 
-李永彬, 武玉川, 黎航宇, 马文涛, <b>林廷恩</b>, 戴音培, 孙健 <i>Granted</i>.
+李永彬, 武玉川, 黎航宇, 马文涛, **林廷恩**, 戴音培, 孙健. <i>Granted</i>.
+
+<b>[CN117633196B 问答模型构建方法及项目问答方法](https://patents.google.com/patent/CN117633196B/zh)</b> <br> 
+ 武玉川, 王睿, 马文涛, 黎航宇, 王轲, **林廷恩**, 刘雄, 樊艳, 黄非, 李永彬. <i>Granted</i>.
 
 <!-- 
 <b>[CN113887554A 处理反馈语的方法以及装置](https://patents.google.com/patent/CN113887554A/zh)</b> <br> 
