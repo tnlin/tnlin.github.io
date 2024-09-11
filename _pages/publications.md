@@ -9,13 +9,13 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 ## Papers
 ### 2024
 [**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct** ]() <br> 
-Run Luo\*, Haonan Zhang\*, Longze Chen\*, **Ting-En Lin\***, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. <I>Arxiv</i>.
+Run Luo\*, Haonan Zhang\*, Longze Chen\*, **Ting-En Lin\***, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. <I>Arxiv 2024</i>.
 
 [**Target Shaping for Data Selection in Targeted Instruction Tuning** ]() <br> 
-Changyu Chen, **Ting-En Lin**, Yuchuan Wu, Yongbin Li, Rui Yan. <I>Arxiv</i>.
+Changyu Chen, **Ting-En Lin**, Yuchuan Wu, Yongbin Li, Rui Yan. <I>Arxiv 2024</i>.
 
 [**A Survey on Self-Evolution of Large Language Models** ](https://arxiv.org/abs/2404.14387) <br> 
-Zhengwei Tao, **Ting-En Lin**, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou. <I>Arxiv</i>.
+Zhengwei Tao, **Ting-En Lin**, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou. <I>Arxiv 2024</i>.
 
 [**Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models**](https://arxiv.org/abs/2403.02178) <br> 
 Changyu Chen, Xiting Wang, **Ting-En Lin**, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. <I>ACL 2024</i>. `acceptance rate: 21.3%`
@@ -23,16 +23,10 @@ Changyu Chen, Xiting Wang, **Ting-En Lin**, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong
 [**Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use**](https://arxiv.org/abs/2312.04455) <br> 
 Yuhan Chen\*, Ang Lv\*, **Ting-En Lin**, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. <I>ACL 2024</i>. `acceptance rate: 21.3%`
 
-### 2023
-<b>[Improving Factual Consistency of Text Summarization by Adversarially Decoupling Comprehension and Embellishment Abilities of LLMs](https://arxiv.org/abs/2310.19347)</b> <br> 
-Huawen Feng, Yan Fan, Xiong Liu, <b>Ting-En Lin</b>, Zekun Yao, Yuchuan Wu, Fei Huang, Yongbin Li, Qianli Ma. <I>Arxiv</i>.
-
-<b>[Constructive Large Language Models Alignment with Diverse Feedback](https://arxiv.org/abs/2310.06450)</b> <br> 
-Tianshu Yu, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>Arxiv</i>.
-
 <b>[Self-Explanation Prompting Improves Dialogue Understanding in Large Language Models](https://arxiv.org/abs/2309.12940)</b> <br> 
 Haoyu Gao, <b>Ting-En Lin</b>, Hangyu Li, Min Yang, Yuchuan Wu, Wentao Ma, Yongbin Li. <I>LREC-COLING 2024</i>.
 
+### 2023
 <b>[Intent Recognition for Human-Machine Interactions](https://link.springer.com/book/10.1007/978-981-99-3885-8)</b> <br> 
 Hua Xu, Hanlei Zhang, <b>Ting-En Lin</b>. <I>Springer 2023</i>.
 
@@ -95,3 +89,10 @@ Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Ir
 
 https://www.patentguru.com/cn/search?inventor=%22%E6%9E%97%E5%BB%B7%E6%81%A9%22&assignee=%22%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%BE%BE%E6%91%A9%E9%99%A2%EF%BC%88%E6%9D%AD%E5%B7%9E%EF%BC%89%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%22%2C%22%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%22 
 -->
+
+## Preprints
+<b>[Improving Factual Consistency of Text Summarization by Adversarially Decoupling Comprehension and Embellishment Abilities of LLMs](https://arxiv.org/abs/2310.19347)</b> <br> 
+Huawen Feng, Yan Fan, Xiong Liu, <b>Ting-En Lin</b>, Zekun Yao, Yuchuan Wu, Fei Huang, Yongbin Li, Qianli Ma. <I>Arxiv 2023</i>.
+
+<b>[Constructive Large Language Models Alignment with Diverse Feedback](https://arxiv.org/abs/2310.06450)</b> <br> 
+Tianshu Yu, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>Arxiv 2023</i>.
