@@ -17,12 +17,13 @@ redirect_from:
   <img src="https://tnlin.github.io/images/logo-nctu.png" width="150" hspace="20" vspace="10">
 </p>
 
-Ting-En (Tony) Lin is a senior researcher at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as a program committee for various leading conferences such as ACL/EMNLP/AAAI. Tony received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
+Ting-En (Tony) Lin is a senior researcher at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as a program committee for various leading conferences such as ACL/AAAI/ICLR/NeurIPS. Tony received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
 
 [![Page Views](https://badges.toozhao.com/badges/01HDFPSGSP5M786DV2YXNVP9CC/green.svg)](https://badges.toozhao.com/stats/01HDFPSGSP5M786DV2YXNVP9CC)
 
 ## News
 ### 2024
+- Sep. 2024: Our latest work **MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct** has released code, data, and model on the [Huggingface](https://huggingface.co/datasets/Tongyi-ConvAI/MMEvol). Check it out on [arXiv](https://arxiv.org/abs/2409.05840).
 - May. 2024: Our two papers, **Attention Bucket** and **Masked Thought** on LLM tools and planning, have been accepted to [ACL 2024](https://2024.aclweb.org/)!@Bangkok
 - Apr. 2024: We are pleased to introduce our latest survey: **A Survey on Self-Evolution of Large Language Models**, which presents a conceptual framework for the self-evolution of LLMs (such as WizardLM, LLaMA, and Phi). Check it out on [arXiv](https://arxiv.org/abs/2404.14387).
 
@@ -56,13 +57,13 @@ Ting-En (Tony) Lin is a senior researcher at [Tongyi Laboratory, Alibaba Group](
 
 ## Professional Services
 Reviewer / Program Committee Member in:
-- **Natural Language Processing (NLP)**: ACL/ARR 22/23/24, EMNLP 21/22/23
-- **Artificial Intelligent (AI)**: AAAI 21/22/23/24, IJCAI 23
-- **Data Mining (DM)**: KDD 23, WSDM 22/24
-- **Journal and Others**: TKDE / TMM / KBS / ICASSP 24 ...
+- **Natural Language Processing (NLP)**: ARR/ACL/EMNLP/NAACL 21 ~ now
+- **Artificial Intelligent (AI)**: AAAI 21 ~ now, NeurIPS/ICLR/COLM 24 ~ now
+- **Data Mining (DM)**: KDD 23, WSDM 22 ~ now
+- **Journal and Others**: TKDE / TMM / KBS / ICASSP / IJCAI / ...
 
-## We Are Hiring! (2024.7)
-We are actively hiring interns and recent graduates, including PhD holders. Please feel free to contact me if you need further information.
+## We Are Hiring! (2024.12)
+We are actively hiring research scientists and interns. Please feel free to contact me if you need further information.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=qhBuDaoMi9s7yNPWZvMsyT0S2IpyxUIMI5gPHrm2BCM&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 <!-- , fresh grads, and [research interns](https://talent.alibaba.com/campus/position-detail?positionId=2000738) -->
