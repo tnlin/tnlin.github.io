@@ -74,7 +74,7 @@ Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>. <i>AAAI 2021</i>. `acceptance rate: 21
 Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Iru Wang. <i>ICCE-TW 2017</i>. -->
 
 ## Patents
-<b>[CN113887554A 处理反馈语的方法以及装置](https://patents.google.com/patent/CN113887554A/zh)</b> <br> 
+<b>[CN113887554B 处理反馈语的方法以及装置](https://patents.google.com/patent/CN113887554A/zh)</b> <br> 
 **林廷恩**, 武玉川, 李永彬, 孙健. <i>Granted</i>.
 
 <b>[CN114267345B 模型训练方法、语音处理方法及其装置](https://patents.google.com/patent/CN114267345B/zh)</b> <br> 
