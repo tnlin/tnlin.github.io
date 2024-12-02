@@ -74,6 +74,9 @@ Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>. <i>AAAI 2021</i>. `acceptance rate: 21
 Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Iru Wang. <i>ICCE-TW 2017</i>. -->
 
 ## Patents
+<b>[CN113887554A 处理反馈语的方法以及装置](https://patents.google.com/patent/CN113887554A/zh)</b> <br> 
+**林廷恩**, 武玉川, 李永彬, 孙健. <i>Granted</i>.
+
 <b>[CN114267345B 模型训练方法、语音处理方法及其装置](https://patents.google.com/patent/CN114267345B/zh)</b> <br> 
 **林廷恩**, 武玉川, 李永彬, 孙健. <i>Granted</i>.
 
@@ -84,9 +87,6 @@ Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Ir
  武玉川, 王睿, 马文涛, 黎航宇, 王轲, **林廷恩**, 刘雄, 樊艳, 黄非, 李永彬. <i>Granted</i>.
 
 <!-- 
-<b>[CN113887554A 处理反馈语的方法以及装置](https://patents.google.com/patent/CN113887554A/zh)</b> <br> 
-<b>林廷恩</b>, 武玉川, 李永彬, 孙健. <i>Under review</i>.
-
 <b>[CN114077666A 对话意图分类方法、装置和非易失性计算机存储介质](https://patents.google.com/patent/CN114077666A/zh)</b> <br> 
 徐华, 张瀚镭, <b>林廷恩</b>. <i>Under review</i>.
 
