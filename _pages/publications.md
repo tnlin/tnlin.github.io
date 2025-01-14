@@ -7,12 +7,17 @@ author_profile: true
 Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFVMAAAAAJ&hl=en) profile for the latest publications. (* denotes equal contribution)
 
 ## Papers
-### 2024
-[**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct** ]() <br> 
-Run Luo\*, Haonan Zhang\*, Longze Chen\*, **Ting-En Lin\***, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. <I>Arxiv 2024</i>.
 
-[**Target Shaping for Data Selection in Targeted Instruction Tuning** ]() <br> 
-Changyu Chen, **Ting-En Lin**, Yuchuan Wu, Yongbin Li, Rui Yan. <I>Arxiv 2024</i>.
+### 2025 
+[**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**](https://arxiv.org/abs/2501.04561)<br>
+Run Luo, **Ting-En Lin**, Haonan Zhang, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang. <I>Arxiv 2025</i>.
+
+[**Diverse AI Feedback For Large Language Model Alignment**](https://arxiv.org/abs/2310.06450)<br> 
+Tianshu Yu, **Ting-En Lin**, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>TACL 2025</i>.
+
+### 2024
+[**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct** ](https://arxiv.org/abs/2409.05840) <br> 
+Run Luo\*, Haonan Zhang\*, Longze Chen\*, **Ting-En Lin\***, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. <I>Arxiv 2024</i>.
 
 [**A Survey on Self-Evolution of Large Language Models** ](https://arxiv.org/abs/2404.14387) <br> 
 Zhengwei Tao, **Ting-En Lin**, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou. <I>Arxiv 2024</i>.
@@ -93,6 +98,8 @@ Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Ir
 https://www.patentguru.com/cn/search?inventor=%22%E6%9E%97%E5%BB%B7%E6%81%A9%22&assignee=%22%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%BE%BE%E6%91%A9%E9%99%A2%EF%BC%88%E6%9D%AD%E5%B7%9E%EF%BC%89%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%22%2C%22%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%22 
 -->
 
+<!-- 
 ## Preprints
-<b>[Constructive Large Language Models Alignment with Diverse Feedback](https://arxiv.org/abs/2310.06450)</b> <br> 
-Tianshu Yu, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>Arxiv 2023</i>.
+[**Target Shaping for Data Selection in Targeted Instruction Tuning** ]() <br> 
+Changyu Chen, **Ting-En Lin**, Yuchuan Wu, Yongbin Li, Rui Yan. <I>Arxiv 2024</i>.
+-->
