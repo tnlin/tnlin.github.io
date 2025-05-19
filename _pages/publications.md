@@ -8,22 +8,36 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 
 ## Papers
 
-### 2025 
+### 2025
+[**OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**]() <br> 
+Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, **Ting-En Lin**, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. <I>ACL 2025</i>.
+<!-- [**Supervised Optimism Correction: Be Confident When LLMs Are Sure**]() <br> 
+Junjie Zhang, Rushuai Yang, Shunyu Liu, **Ting-En Lin**, Fei Huang, Yi Chen, Yongbin Li, Dacheng Tao <I>ACL findings 2025</i>. -->
+
+[**Reverse Preference Optimization for Complex Instruction Following**]() <br> 
+Xiang Huang, **Ting-En Lin**, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, Fei Huang, Yongbin Li. <I>ACL findings 2025</i>.
+
+[**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct** ](https://arxiv.org/abs/2409.05840) <br> 
+Run Luo\*, Haonan Zhang\*, Longze Chen\*, **Ting-En Lin\***, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. <I>ACL findings 2025</i>.
+
+[**Diverse AI Feedback For Large Language Model Alignment**](https://arxiv.org/abs/2310.06450) <br> 
+Tianshu Yu, **Ting-En Lin**, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>TACL 2025</i>.
+
+
+[**ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents**]() <br>
+Feiteng Fang, **Ting-En Lin**, Yuchuan Wu, Xiong Liu, Dingwei Chen, Jing Ye, Ziqiang Liu, Xiang Huang, Haonan Zhang, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li. <I>Arxiv 2025</i>.
+
+[**A Survey of Direct Preference Optimization**](https://arxiv.org/pdf/2503.11701?) <br> 
+Shunyu Liu, Wenkai Fang, Zetian Hu, Junjie Zhang, Yang Zhou, Kongcheng Zhang, Rongcheng Tu, **Ting-En Lin**, Fei Huang, Mingli Song, Yongbin Li, Dacheng Tao. <I>Arxiv 2025</i>.
+
 [**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**](https://arxiv.org/abs/2501.04561)<br>
 Run Luo, **Ting-En Lin**, Haonan Zhang, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang. <I>Arxiv 2025</i>.
 
-[**Diverse AI Feedback For Large Language Model Alignment**](https://arxiv.org/abs/2310.06450)<br> 
-Tianshu Yu, **Ting-En Lin**, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>TACL 2025</i>.
-
 ### 2024
-[**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct** ](https://arxiv.org/abs/2409.05840) <br> 
-Run Luo\*, Haonan Zhang\*, Longze Chen\*, **Ting-En Lin\***, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. <I>Arxiv 2024</i>.
-
 [**A Survey on Self-Evolution of Large Language Models** ](https://arxiv.org/abs/2404.14387) <br> 
 Zhengwei Tao, **Ting-En Lin**, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou. <I>Arxiv 2024</i>.
-
-[**Improving Factual Consistency of Text Summarization by Adversarially Decoupling Comprehension and Embellishment Abilities of LLMs**](https://arxiv.org/abs/2310.19347) <br> 
-Huawen Feng, Yan Fan, Xiong Liu, **Ting-En Lin**, Zekun Yao, Yuchuan Wu, Fei Huang, Yongbin Li, Qianli Ma. <I>EMNLP findings 2024</i>.
+<!-- [**Improving Factual Consistency of Text Summarization by Adversarially Decoupling Comprehension and Embellishment Abilities of LLMs**](https://arxiv.org/abs/2310.19347) <br> 
+Huawen Feng, Yan Fan, Xiong Liu, **Ting-En Lin**, Zekun Yao, Yuchuan Wu, Fei Huang, Yongbin Li, Qianli Ma. <I>EMNLP findings 2024</i>. -->
 
 [**Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models**](https://arxiv.org/abs/2403.02178) <br> 
 Changyu Chen, Xiting Wang, **Ting-En Lin**, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. <I>ACL 2024</i>. `acceptance rate: 21.3%`
