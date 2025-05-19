@@ -17,16 +17,18 @@ redirect_from:
   <img src="https://tnlin.github.io/images/logo-nctu.png" width="150" hspace="20" vspace="10">
 </p>
 
-Ting-En (Tony) Lin is a research scientist at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as a program committee for various leading conferences such as ACL/AAAI/ICLR/NeurIPS. Tony received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
+Ting-En (Tony) Lin is a research scientist at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as a program committee member for various leading conferences such as ACL/AAAI/ICLR/NeurIPS. Tony received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
 
 [![Page Views](https://badges.toozhao.com/badges/01HDFPSGSP5M786DV2YXNVP9CC/green.svg)](https://badges.toozhao.com/stats/01HDFPSGSP5M786DV2YXNVP9CC)
 
 ## News
 ### 2025
+<!-- - May. 2025: Our work **[ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents]** is  on Arxiv.  -->
+- May. 2025: Our four papers (MMEvol, RPO, OmniCharacter, and SOC) about LLM self-evolution, instruction following, and role-playing language agent are accepted to [ACL 2025](https://2025.aclweb.org/)!@Vienna
 - Jan. 2025: We are excited to release **[OpenOmni](https://arxiv.org/abs/2501.04561)**, a state-of-the-art open-source model that achieves zero-shot omnimodal alignment across languages with self-aware emotional speech synthesis. Explore the [code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/OpenOmni) on GitHub, and access the [data](https://huggingface.co/datasets/Tongyi-ConvAI/OpenOmni) and [model](https://huggingface.co/Tongyi-ConvAI/OpenOmni) on Huggingface.
 
 ### 2024
-- Oct. 2024: Thrilled to share that our work, **[DAIF](https://arxiv.org/pdf/2310.06450)**, which leverages diverse AI feedback for efficient LLM alignment, has been accepted for publication in *TACL 2025*.  
+- Oct. 2024: Thrilled to share that our work, **[DAIF](https://arxiv.org/pdf/2310.06450)**, which leverages diverse AI feedback for efficient LLM alignment, has been accepted for publication in [TACL 2025](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00746/128938)
 - Sep. 2024: Our work **MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct** has released code, data, and models on the [Huggingface](https://huggingface.co/datasets/Tongyi-ConvAI/MMEvol). You can check it on [arXiv](https://arxiv.org/abs/2409.05840).
 - Aug. 2024: Our two papers, **Attention Bucket** and **Masked Thought** on LLM tools and planning, have been accepted to [ACL 2024](https://2024.aclweb.org/)!@Bangkok
 - May. 2024: <b>Self-Explanation</b>, a simple yet effective LLM prompting method to improve task-oriented dialogue understanding, is accepted to [LREC-COLING 2024](https://lrec-coling-2024.org/)!@Torino
@@ -63,10 +65,10 @@ Ting-En (Tony) Lin is a research scientist at [Tongyi Laboratory, Alibaba Group]
 Reviewer / Program Committee Member in:
 - **Natural Language Processing (NLP)**: ARR/ACL/EMNLP/NAACL 21 ~ now
 - **Artificial Intelligent (AI)**: AAAI 21 ~ now, NeurIPS/ICLR/COLM 24 ~ now
-- **Data Mining (DM)**: KDD 23, WSDM 22 ~ now
-- **Journal and Others**: TKDE / TMM / KBS / ICASSP / IJCAI / ...
+- **Data Mining (DM)**: KDD/WSDM 22 ~ now
+- **Journal and Others**: TKDE / TMM / NN / ICASSP / IJCAI / ...
 
-## We Are Hiring! (2024.12)
+## We Are Hiring! (2025.5)
 We are actively hiring research scientists and interns. Please feel free to contact me if you need further information.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=qhBuDaoMi9s7yNPWZvMsyT0S2IpyxUIMI5gPHrm2BCM&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
