@@ -9,7 +9,7 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 ## Papers
 
 ### 2025
-[**OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**](https://arxiv.org/abs/2505.20277?) <br> 
+[**OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**](https://arxiv.org/abs/2505.20277) <br> 
 Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, **Ting-En Lin**, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. <I>ACL 2025</i>.
 
 [**Supervised Optimism Correction: Be Confident When LLMs Are Sure**](https://arxiv.org/abs/2504.07527) <br> 
