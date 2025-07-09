@@ -9,13 +9,13 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 ## Papers
 
 ### 2025
-[**OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**](https://arxiv.org/pdf/2505.20277?) <br> 
+[**OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**](https://arxiv.org/abs/2505.20277?) <br> 
 Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, **Ting-En Lin**, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. <I>ACL 2025</i>.
 
 [**Supervised Optimism Correction: Be Confident When LLMs Are Sure**](https://arxiv.org/abs/2504.07527) <br> 
 Junjie Zhang, Rushuai Yang, Shunyu Liu, **Ting-En Lin**, Fei Huang, Yi Chen, Yongbin Li, Dacheng Tao <I>ACL findings 2025</i>.
 
-[**Reverse Preference Optimization for Complex Instruction Following**](https://arxiv.org/pdf/2505.22172) <br> 
+[**Reverse Preference Optimization for Complex Instruction Following**](https://arxiv.org/abs/2505.22172) <br> 
 Xiang Huang, **Ting-En Lin**, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, Fei Huang, Yongbin Li. <I>ACL findings 2025</i>.
 
 [**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct** ](https://arxiv.org/abs/2409.05840) <br> 
@@ -24,10 +24,10 @@ Run Luo\*, Haonan Zhang\*, Longze Chen\*, **Ting-En Lin\***, Xiong Liu, Yuchuan 
 [**Diverse AI Feedback For Large Language Model Alignment**](https://arxiv.org/abs/2310.06450) <br> 
 Tianshu Yu, **Ting-En Lin**, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>TACL 2025</i>.
 
-[**ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents**](https://arxiv.org/pdf/2505.23923) <br> 
+[**ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents**](https://arxiv.org/abs/2505.23923) <br> 
 Feiteng Fang, **Ting-En Lin**, Yuchuan Wu, Xiong Liu, Xiang Huang, Dingwei Chen, Jing Ye, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <I>Arxiv 2025</i>.
 
-[**A Survey of Direct Preference Optimization**](https://arxiv.org/pdf/2503.11701?) <br> 
+[**A Survey of Direct Preference Optimization**](https://arxiv.org/abs/2503.11701?) <br> 
 Shunyu Liu, Wenkai Fang, Zetian Hu, Junjie Zhang, Yang Zhou, Kongcheng Zhang, Rongcheng Tu, **Ting-En Lin**, Fei Huang, Mingli Song, Yongbin Li, Dacheng Tao. <I>Arxiv 2025</i>.
 
 [**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**](https://arxiv.org/abs/2501.04561)<br>
@@ -61,17 +61,17 @@ Zaijing Li, <b>Ting-En Lin</b>, Yuchuan Wu, Meng Liu, Fengxiao Tang, Ming Zhao, 
 <b>[Speech-Text Dialog Pre-training for Spoken Dialog Understanding with Explicit Cross-Modal Alignment](https://arxiv.org/abs/2305.11579)</b> <br> 
 Tianshu Yu\*, Haoyu Gao\*, <b>Ting-En Lin</b>, Min Yang, Yuchuan Wu, Wentao Ma, Chao Wang, Fei Huang, Yongbin Li. <i>ACL 2023</i>. `acceptance rate: 23.5%%`
 
-<b>[Unsupervised Dialogue Topic Segmentation with Topic-aware Utterance Representation](https://arxiv.org/pdf/2305.02747.pdf)</b> <br> 
+<b>[Unsupervised Dialogue Topic Segmentation with Topic-aware Utterance Representation](https://arxiv.org/abs/2305.02747.pdf)</b> <br> 
 Haoyu Gao\*, Rui Wang\*, <b>Ting-En Lin</b>, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <i>SIGIR 2023</i>. `short paper, acceptance rate: 25.12%`
 
-<b>[Empathetic Response Generation via Emotion Cause Transition Graph](https://arxiv.org/pdf/2205.15060)</b> <br> 
+<b>[Empathetic Response Generation via Emotion Cause Transition Graph](https://arxiv.org/abs/2205.15060)</b> <br> 
 Yushan Qian, Bo Wang, <b>Ting-En Lin</b>, Yinhe Zheng, Ying Zhu, Dongming Zhao, Yuexian Hou, Yuchuan Wu, Yongbin Li. <i>ICASSP 2023</i>.
 
 ### - 2022
-<b>[UniMSE: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition](https://arxiv.org/pdf/2205.15060)</b> <br> 
+<b>[UniMSE: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition](https://arxiv.org/abs/2205.15060)</b> <br> 
 Guimin Hu, <b>Ting-En Lin</b>, Yi Zhao, Guangming Lu, Yuchuan Wu, Yongbin Li. <i>EMNLP 2022</i>. `acceptance rate: 22.1%` [[Code]](https://github.com/lemei/unimse)
 
-<b>[Duplex Conversation: Towards Human-like Interaction in Spoken Dialogue Systems](https://arxiv.org/pdf/2205.15060)</b> <br> 
+<b>[Duplex Conversation: Towards Human-like Interaction in Spoken Dialogue Systems](https://arxiv.org/abs/2205.15060)</b> <br> 
 <b>Ting-En Lin</b>, Yuchuan Wu, Fei Huang, Luo Si, Jian Sun, Yongbin Li. <i>KDD 2022</i>. `ADS track, acceptance rate: 25.9%`
 
 <b>[Discovering New Intents with Deep Aligned Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17689/17496)</b> <br> 
