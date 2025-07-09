@@ -19,8 +19,6 @@ redirect_from:
 
 Ting-En (Tony) Lin is a research scientist at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/). His research focuses on [Natural Language Processing](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as a program committee member for various leading conferences such as ACL/AAAI/ICLR/NeurIPS. Tony received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
 
-[![Page Views](https://badges.toozhao.com/badges/01HDFPSGSP5M786DV2YXNVP9CC/green.svg)](https://badges.toozhao.com/stats/01HDFPSGSP5M786DV2YXNVP9CC)
-
 ## News
 ### 2025
 <!-- - May. 2025: Our work **[ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents]** is  on Arxiv.  -->
