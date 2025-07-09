@@ -9,12 +9,13 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 ## Papers
 
 ### 2025
-[**OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**]() <br> 
+[**OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**](https://arxiv.org/pdf/2505.20277?) <br> 
 Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, **Ting-En Lin**, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. <I>ACL 2025</i>.
-<!-- [**Supervised Optimism Correction: Be Confident When LLMs Are Sure**]() <br> 
-Junjie Zhang, Rushuai Yang, Shunyu Liu, **Ting-En Lin**, Fei Huang, Yi Chen, Yongbin Li, Dacheng Tao <I>ACL findings 2025</i>. -->
 
-[**Reverse Preference Optimization for Complex Instruction Following**]() <br> 
+[**Supervised Optimism Correction: Be Confident When LLMs Are Sure**](https://arxiv.org/abs/2504.07527) <br> 
+Junjie Zhang, Rushuai Yang, Shunyu Liu, **Ting-En Lin**, Fei Huang, Yi Chen, Yongbin Li, Dacheng Tao <I>ACL findings 2025</i>.
+
+[**Reverse Preference Optimization for Complex Instruction Following**](https://arxiv.org/pdf/2505.22172) <br> 
 Xiang Huang, **Ting-En Lin**, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, Fei Huang, Yongbin Li. <I>ACL findings 2025</i>.
 
 [**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct** ](https://arxiv.org/abs/2409.05840) <br> 
@@ -23,9 +24,8 @@ Run Luo\*, Haonan Zhang\*, Longze Chen\*, **Ting-En Lin\***, Xiong Liu, Yuchuan 
 [**Diverse AI Feedback For Large Language Model Alignment**](https://arxiv.org/abs/2310.06450) <br> 
 Tianshu Yu, **Ting-En Lin**, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>TACL 2025</i>.
 
-
-[**ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents**]() <br>
-Feiteng Fang, **Ting-En Lin**, Yuchuan Wu, Xiong Liu, Dingwei Chen, Jing Ye, Ziqiang Liu, Xiang Huang, Haonan Zhang, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li. <I>Arxiv 2025</i>.
+[**ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents**](https://arxiv.org/pdf/2505.23923) <br> 
+Feiteng Fang, **Ting-En Lin**, Yuchuan Wu, Xiong Liu, Xiang Huang, Dingwei Chen, Jing Ye, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <I>Arxiv 2025</i>.
 
 [**A Survey of Direct Preference Optimization**](https://arxiv.org/pdf/2503.11701?) <br> 
 Shunyu Liu, Wenkai Fang, Zetian Hu, Junjie Zhang, Yang Zhou, Kongcheng Zhang, Rongcheng Tu, **Ting-En Lin**, Fei Huang, Mingli Song, Yongbin Li, Dacheng Tao. <I>Arxiv 2025</i>.
