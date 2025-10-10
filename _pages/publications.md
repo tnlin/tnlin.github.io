@@ -9,6 +9,9 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 ## Papers
 
 ### 2025
+[**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**](https://arxiv.org/abs/2501.04561)<br>
+Run Luo, **Ting-En Lin**, Haonan Zhang, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang. <I>NeurIPS 2025</i>.
+
 [**OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**](https://arxiv.org/abs/2505.20277) <br> 
 Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, **Ting-En Lin**, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. <I>ACL 2025</i>.
 
@@ -22,7 +25,7 @@ Xiang Huang, **Ting-En Lin**, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, F
 Run Luo\*, Haonan Zhang\*, Longze Chen\*, **Ting-En Lin\***, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. <I>ACL findings 2025</i>.
 
 [**Diverse AI Feedback For Large Language Model Alignment**](https://arxiv.org/abs/2310.06450) <br> 
-Tianshu Yu, **Ting-En Lin**, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>TACL 2025</i>.
+Tianshu Yu, **Ting-En Lin**, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>TACL 2025</i>. `SCI, IF=10.9`
 
 [**ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents**](https://arxiv.org/abs/2505.23923) <br> 
 Feiteng Fang, **Ting-En Lin**, Yuchuan Wu, Xiong Liu, Xiang Huang, Dingwei Chen, Jing Ye, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <I>Arxiv 2025</i>.
@@ -30,14 +33,9 @@ Feiteng Fang, **Ting-En Lin**, Yuchuan Wu, Xiong Liu, Xiang Huang, Dingwei Chen,
 [**A Survey of Direct Preference Optimization**](https://arxiv.org/abs/2503.11701?) <br> 
 Shunyu Liu, Wenkai Fang, Zetian Hu, Junjie Zhang, Yang Zhou, Kongcheng Zhang, Rongcheng Tu, **Ting-En Lin**, Fei Huang, Mingli Song, Yongbin Li, Dacheng Tao. <I>Arxiv 2025</i>.
 
-[**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**](https://arxiv.org/abs/2501.04561)<br>
-Run Luo, **Ting-En Lin**, Haonan Zhang, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang. <I>Arxiv 2025</i>.
-
 ### 2024
 [**A Survey on Self-Evolution of Large Language Models** ](https://arxiv.org/abs/2404.14387) <br> 
 Zhengwei Tao, **Ting-En Lin**, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou. <I>Arxiv 2024</i>.
-<!-- [**Improving Factual Consistency of Text Summarization by Adversarially Decoupling Comprehension and Embellishment Abilities of LLMs**](https://arxiv.org/abs/2310.19347) <br> 
-Huawen Feng, Yan Fan, Xiong Liu, **Ting-En Lin**, Zekun Yao, Yuchuan Wu, Fei Huang, Yongbin Li, Qianli Ma. <I>EMNLP findings 2024</i>. -->
 
 [**Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models**](https://arxiv.org/abs/2403.02178) <br> 
 Changyu Chen, Xiting Wang, **Ting-En Lin**, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. <I>ACL 2024</i>. `acceptance rate: 21.3%`
@@ -84,7 +82,7 @@ Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>. <i>AAAI 2021</i>. `acceptance rate: 21
 <b>Ting-En Lin</b>, Hua Xu, Hanlei Zhang. <i>AAAI 2020</i>. `acceptance rate: 20.6%` [[Code]](https://github.com/thuiar/CDAC-plus/)
 
 <b>[A Post-processing Method for Detecting Unknown Intent of Dialogue System via Pre-trained Deep Neural Network Classifier](https://www.sciencedirect.com/science/article/abs/pii/S0950705119304034)</b> <br> 
-<b>Ting-En Lin</b>, Hua Xu. <i>Knowledge-Based Systems, 2019</i>. `SCI, IF=8.139`
+<b>Ting-En Lin</b>, Hua Xu. <i>Knowledge-Based Systems, 2019</i>. `SCI, IF=8.1`
 
 <b>[Deep Unknown Intent Detection with Margin Loss](https://aclanthology.org/P19-1548.pdf)</b> <br> 
 <b>Ting-En Lin</b>, Hua Xu. <i>ACL 2019</i>. `short paper, acceptance rate: 18.2%` [[Code]](https://github.com/thuiar/DeepUnkID)
@@ -114,6 +112,9 @@ Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Ir
 <!-- 
 https://www.patentguru.com/cn/search?inventor=%22%E6%9E%97%E5%BB%B7%E6%81%A9%22&assignee=%22%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%BE%BE%E6%91%A9%E9%99%A2%EF%BC%88%E6%9D%AD%E5%B7%9E%EF%BC%89%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%22%2C%22%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%22 
 -->
+
+<!-- [**Improving Factual Consistency of Text Summarization by Adversarially Decoupling Comprehension and Embellishment Abilities of LLMs**](https://arxiv.org/abs/2310.19347) <br> 
+Huawen Feng, Yan Fan, Xiong Liu, **Ting-En Lin**, Zekun Yao, Yuchuan Wu, Fei Huang, Yongbin Li, Qianli Ma. <I>EMNLP findings 2024</i>. -->
 
 <!-- 
 ## Preprints
