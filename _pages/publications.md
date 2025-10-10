@@ -93,22 +93,25 @@ Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>. <i>AAAI 2021</i>. `acceptance rate: 21
 Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Iru Wang. <i>ICCE-TW 2017</i>. -->
 
 ## Patents
-<b>[CN113887554B 处理反馈语的方法以及装置](https://patents.google.com/patent/CN113887554A/zh)</b> <br> 
+**[CN117633196B 问答模型构建方法及项目问答方法](https://patents.google.com/patent/CN117633196B/zh)** <br> 
+武玉川, 王睿, 马文涛, 黎航宇, 王轲, **林廷恩**, 刘雄, 樊艳, 黄非, 李永彬. <i>Granted</i>.
+
+**[CN114936560B 人机交互方法、智能机器人和存储介质](https://patents.google.com/patent/CN114936560B/zh)** <br> 
 **林廷恩**, 武玉川, 李永彬, 孙健. <i>Granted</i>.
 
-<b>[CN114267345B 模型训练方法、语音处理方法及其装置](https://patents.google.com/patent/CN114267345B/zh)</b> <br> 
-**林廷恩**, 武玉川, 李永彬, 孙健. <i>Granted</i>.
-
-<b>[CN114691852B 人机对话系统及方法](https://patents.google.com/patent/CN114691852B/zh)</b> <br> 
+**[CN114691852B 人机对话系统及方法](https://patents.google.com/patent/CN114691852B/zh)** <br> 
 李永彬, 武玉川, 黎航宇, 马文涛, **林廷恩**, 戴音培, 孙健. <i>Granted</i>.
 
-<b>[CN117633196B 问答模型构建方法及项目问答方法](https://patents.google.com/patent/CN117633196B/zh)</b> <br> 
- 武玉川, 王睿, 马文涛, 黎航宇, 王轲, **林廷恩**, 刘雄, 樊艳, 黄非, 李永彬. <i>Granted</i>.
+**[CN114267345B 模型训练方法、语音处理方法及其装置](https://patents.google.com/patent/CN114267345B/zh)** <br> 
+**林廷恩**, 武玉川, 李永彬, 孙健. <i>Granted</i>.
+
+**[CN114077666B 对话意图分类方法、装置和非易失性计算机存储介质](https://patents.google.com/patent/CN114077666B/zh)** <br> 
+徐华, 张瀚镭, **林廷恩**. <i>Granted</i>.
+
+**[CN113887554B 处理反馈语的方法以及装置](https://patents.google.com/patent/CN113887554A/zh)** <br> 
+**林廷恩**, 武玉川, 李永彬, 孙健. <i>Granted</i>.
 
 <!-- 
-<b>[CN114077666A 对话意图分类方法、装置和非易失性计算机存储介质](https://patents.google.com/patent/CN114077666A/zh)</b> <br> 
-徐华, 张瀚镭, <b>林廷恩</b>. <i>Under review</i>.
-
 https://www.patentguru.com/cn/search?inventor=%22%E6%9E%97%E5%BB%B7%E6%81%A9%22&assignee=%22%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%BE%BE%E6%91%A9%E9%99%A2%EF%BC%88%E6%9D%AD%E5%B7%9E%EF%BC%89%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%22%2C%22%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%22 
 -->
 
