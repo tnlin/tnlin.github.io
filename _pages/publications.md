@@ -8,6 +8,10 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 
 ## Papers
 
+### 2026
+[**P-GenRM: Personalized Generative RewardModel with Test-time User-based Scaling**](https://openreview.net/forum?id=hXNApWLBZG)<br>
+Pinyi Zhang, **Ting-En Lin**, Yuchuan Wu, Jingyang Chen, Zongqi Wang, Hua Yang, Xu Ze, Fei Huang, Yongbin Li, Kai Zhang. <I>ICLR 2026</i>.
+
 ### 2025
 [**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**](https://arxiv.org/abs/2501.04561)<br>
 Run Luo, **Ting-En Lin**, Haonan Zhang, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang. <I>NeurIPS 2025</i>.
@@ -91,6 +95,9 @@ Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>. <i>AAAI 2021</i>. `acceptance rate: 21
 Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Iru Wang. <i>ICCE-TW 2017</i>. -->
 
 ## Patents
+**[CN114936560B 人机交互方法、智能机器人和存储介质](https://patents.google.com/patent/CN114936560B/zh)** <br> 
+**林廷恩**, 武玉川, 李永彬, 孙健. 2025. <i>Granted</i>.
+
 **[CN117633196B 问答模型构建方法及项目问答方法](https://patents.google.com/patent/CN117633196B/zh)** <br> 
 武玉川, 王睿, 马文涛, 黎航宇, 王轲, **林廷恩**, 刘雄, 樊艳, 黄非, 李永彬. 2024. <i>Granted</i>.
 
