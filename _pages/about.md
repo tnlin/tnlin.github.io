@@ -17,13 +17,15 @@ redirect_from:
   <img src="https://tnlin.github.io/images/logo-nctu.png" width="150" hspace="20" vspace="10">
 </p>
 
-Ting-En (Tony) Lin is a research scientist at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/). His research focuses on [Large Language Model](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as a program committee member for various leading conferences such as ACL/AAAI/ICLR/NeurIPS. Tony received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
+Ting-En (Tony) Lin is a research scientist at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/). His research focuses on [Large Language Model](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as a program committee member for various leading conferences such as ACL/AAAI/ICLR/NeurIPS. Ting-En received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
 
 ## News
-### 2025
-<!-- - May. 2025: Our work **[ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents]** is  on Arxiv.  -->
-- May. 2025: We are excited to announce that our three papers—**[OmniCharacter](https://arxiv.org/abs/2505.20277)**, **[RPO](https://arxiv.org/abs/2505.22172)**, and **[MMEvol](https://arxiv.org/abs/2409.05840)**—, covering a range of topics, including role-playing language agents (RPLA), instruction following (IF), and the self-evolution of large language models (LLM), have been accepted to [ACL 2025](https://2025.aclweb.org/)!@Vienna.
+### 2026
+- Jan. 2026: We propose **[P-GenRM](https://openreview.net/forum?id=hXNApWLBZG)**, a novel personalized generative reward modeling framework that generalizes across preference modeling settings and enables effective downstream RL optimization. The paper has been accepted to [ICLR 2026](https://iclr.cc/Conferences/2026)@Rio de Janeiro, Brazil.
 
+### 2025
+- Oct. 2025: **[Qwen-Character](https://help.aliyun.com/zh/model-studio/role-play)**, our latest model for immersive role-playing, emotional support, and plot advancement, is publicly available on Alibaba Cloud - feel free to try it out and share feedback or suggestions!
+- May. 2025: We are excited to announce that our three papers—**[OmniCharacter](https://arxiv.org/abs/2505.20277)**, **[RPO](https://arxiv.org/abs/2505.22172)**, and **[MMEvol](https://arxiv.org/abs/2409.05840)**—, covering a range of topics, including role-playing language agents (RPLA), instruction following (IF), and the self-evolution of large language models (LLM), have been accepted to [ACL 2025](https://2025.aclweb.org/)!@Vienna.
 - Jan. 2025: We are excited to release **[OpenOmni](https://arxiv.org/abs/2501.04561)**, a state-of-the-art open-source model that achieves zero-shot omnimodal alignment across languages with self-aware emotional speech synthesis. Explore the [code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/OpenOmni) on GitHub, and access the [data](https://huggingface.co/datasets/Tongyi-ConvAI/OpenOmni) and [model](https://huggingface.co/Tongyi-ConvAI/OpenOmni) on Huggingface.
 
 ### 2024
@@ -67,7 +69,7 @@ Reviewer / Program Committee Member in:
 - **Data Mining (DM)**: KDD/WSDM 22 ~ now
 - **Journal and Others**: TKDE / TMM / NN / ICASSP / IJCAI / ...
 
-## We Are Hiring! (2025.7)
+## We Are Hiring! (2026.1)
 We are actively hiring research scientists and interns. Please do not hesitate to contact me if you require any additional information.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=qhBuDaoMi9s7yNPWZvMsyT0S2IpyxUIMI5gPHrm2BCM&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
