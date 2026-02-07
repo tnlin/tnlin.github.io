@@ -21,7 +21,7 @@ Ting-En (Tony) Lin is a research scientist at [Tongyi Laboratory, Alibaba Group]
 
 ## News
 ### 2026
-- Jan. 2026: We propose **[P-GenRM](https://openreview.net/forum?id=hXNApWLBZG)**, a novel personalized generative reward modeling framework that generalizes across preference modeling settings and enables effective downstream RL optimization. The paper has been accepted to [ICLR 2026](https://iclr.cc/Conferences/2026)@Rio de Janeiro, Brazil.
+- Jan. 2026: We propose **[P-GenRM](https://openreview.net/forum?id=hXNApWLBZG)**, a novel personalized generative reward modeling framework that generalizes across preference modeling settings and enables effective downstream RL optimization. Our paper has been accepted as an **Oral (top 1%)** at [ICLR 2026](https://iclr.cc/Conferences/2026)!@Rio de Janeiro, Brazil.
 
 ### 2025
 - Oct. 2025: **[Qwen-Character](https://help.aliyun.com/zh/model-studio/role-play)**, our latest model for immersive role-playing, emotional support, and plot advancement, is publicly available on Alibaba Cloud - feel free to try it out and share feedback or suggestions!
