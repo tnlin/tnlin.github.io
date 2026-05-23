@@ -95,14 +95,14 @@ Hanlei Zhang, Hua Xu, <b>Ting-En Lin</b>. <i>AAAI 2021</i>. `acceptance rate: 21
 Che-Min Chung, Cai-Cing Chen, Wei-Ping Shih, <b>Ting-En Lin</b>, Rui-Jun Yeh, Iru Wang. <i>ICCE-TW 2017</i>. -->
 
 ## Patents
+**[CN116188851B 图像识别方法、图像识别的数据处理方法及计算设备](https://patents.google.com/patent/CN116188851B/zh)** <br> 
+**林廷恩**, 武玉川, 黄非, 李永彬. 2026. <i>Granted</i>.
+
 **[CN114936560B 人机交互方法、智能机器人和存储介质](https://patents.google.com/patent/CN114936560B/zh)** <br> 
 **林廷恩**, 武玉川, 李永彬, 孙健. 2025. <i>Granted</i>.
 
 **[CN117633196B 问答模型构建方法及项目问答方法](https://patents.google.com/patent/CN117633196B/zh)** <br> 
 武玉川, 王睿, 马文涛, 黎航宇, 王轲, **林廷恩**, 刘雄, 樊艳, 黄非, 李永彬. 2024. <i>Granted</i>.
-
-**[CN114936560B 人机交互方法、智能机器人和存储介质](https://patents.google.com/patent/CN114936560B/zh)** <br> 
-**林廷恩**, 武玉川, 李永彬, 孙健. 2022. <i>Granted</i>.
 
 **[CN114691852B 人机对话系统及方法](https://patents.google.com/patent/CN114691852B/zh)** <br> 
 李永彬, 武玉川, 黎航宇, 马文涛, **林廷恩**, 戴音培, 孙健. 2022. <i>Granted</i>.
@@ -121,9 +121,3 @@ https://www.patentguru.com/cn/search?inventor=%22%E6%9E%97%E5%BB%B7%E6%81%A9%22&
 
 <!-- [**Improving Factual Consistency of Text Summarization by Adversarially Decoupling Comprehension and Embellishment Abilities of LLMs**](https://arxiv.org/abs/2310.19347) <br> 
 Huawen Feng, Yan Fan, Xiong Liu, **Ting-En Lin**, Zekun Yao, Yuchuan Wu, Fei Huang, Yongbin Li, Qianli Ma. <I>EMNLP findings 2024</i>. -->
-
-<!-- 
-## Preprints
-[**Target Shaping for Data Selection in Targeted Instruction Tuning** ]() <br> 
-Changyu Chen, **Ting-En Lin**, Yuchuan Wu, Yongbin Li, Rui Yan. <I>Arxiv 2024</i>.
--->
