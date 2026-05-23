@@ -9,33 +9,33 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 ## Papers
 
 ### 2026
+[**Act-Adaptive Margin: Dynamically Calibrating Reward Models for Subjective Ambiguity**](https://arxiv.org/abs/2505.23923)<br>
+Feiteng Fang, Dingwei Chen, Xiang Huang, **Ting-En Lin**, Yuchuan Wu, Xiong Liu, Jing Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Yongbin Li. <I>ACL 2026</I>. `Oral Presentation, Top 3%`
+
 [**P-GenRM: Personalized Generative RewardModel with Test-time User-based Scaling**](https://openreview.net/forum?id=hXNApWLBZG)<br>
-Pinyi Zhang, **Ting-En Lin**, Yuchuan Wu, Jingyang Chen, Zongqi Wang, Hua Yang, Xu Ze, Fei Huang, Yongbin Li, Kai Zhang. <I>ICLR 2026</i>.
+Pinyi Zhang, **Ting-En Lin**, Yuchuan Wu, Jingyang Chen, Zongqi Wang, Hua Yang, Xu Ze, Fei Huang, Yongbin Li, Kai Zhang. <I>ICLR 2026</i>. `Oral Presentation, Top 1%`  [[Code]](https://github.com/Tongyi-ConvAI/Qwen-Character/tree/main/Character-GenRM)
 
 ### 2025
 [**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**](https://arxiv.org/abs/2501.04561)<br>
-Run Luo, **Ting-En Lin**, Haonan Zhang, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang. <I>NeurIPS 2025</i>.
+Run Luo, **Ting-En Lin**, Haonan Zhang, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang. <I>NeurIPS 2025</i>. `acceptance rate: 24.5%` 
 
 [**OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**](https://arxiv.org/abs/2505.20277) <br> 
-Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, **Ting-En Lin**, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. <I>ACL 2025</i>.
+Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, **Ting-En Lin**, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. <I>ACL 2025</i>. `acceptance rate: 20.3%` 
 
 <!--[**Supervised Optimism Correction: Be Confident When LLMs Are Sure**](https://arxiv.org/abs/2504.07527) <br> 
-Junjie Zhang, Rushuai Yang, Shunyu Liu, **Ting-En Lin**, Fei Huang, Yi Chen, Yongbin Li, Dacheng Tao <I>ACL findings 2025</i>. -->
+Junjie Zhang, Rushuai Yang, Shunyu Liu, **Ting-En Lin**, Fei Huang, Yi Chen, Yongbin Li, Dacheng Tao <I>ACL findings 2025</i>. 
 
+[**A Survey of Direct Preference Optimization**](https://arxiv.org/abs/2503.11701?) <br> 
+Shunyu Liu, Wenkai Fang, Zetian Hu, Junjie Zhang, Yang Zhou, Kongcheng Zhang, Rongcheng Tu, **Ting-En Lin**, Fei Huang, Mingli Song, Yongbin Li, Dacheng Tao. <I>Arxiv 2025</i>
+-->
 [**Reverse Preference Optimization for Complex Instruction Following**](https://arxiv.org/abs/2505.22172) <br> 
-Xiang Huang, **Ting-En Lin**, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, Fei Huang, Yongbin Li. <I>ACL findings 2025</i>.
+Xiang Huang, **Ting-En Lin**, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, Fei Huang, Yongbin Li. <I>ACL findings 2025</i>. `acceptance rate: 37%` 
 
 [**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct** ](https://arxiv.org/abs/2409.05840) <br> 
-Run Luo\*, Haonan Zhang\*, Longze Chen\*, **Ting-En Lin\***, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. <I>ACL findings 2025</i>.
+Run Luo\*, Haonan Zhang\*, Longze Chen\*, **Ting-En Lin\***, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. <I>ACL findings 2025</i>. `acceptance rate: 37%` 
 
 [**Diverse AI Feedback For Large Language Model Alignment**](https://arxiv.org/abs/2310.06450) <br> 
 Tianshu Yu, **Ting-En Lin**, Yuchuan Wu, Min Yang, Fei Huang, Yongbin Li. <I>TACL 2025</i>. `SCI, IF=10.9`
-
-<!-- [**ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents**](https://arxiv.org/abs/2505.23923) <br> 
-Feiteng Fang, **Ting-En Lin**, Yuchuan Wu, Xiong Liu, Xiang Huang, Dingwei Chen, Jing Ye, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li. <I>Arxiv 2025</i>. 
-
-[**A Survey of Direct Preference Optimization**](https://arxiv.org/abs/2503.11701?) <br> 
-Shunyu Liu, Wenkai Fang, Zetian Hu, Junjie Zhang, Yang Zhou, Kongcheng Zhang, Rongcheng Tu, **Ting-En Lin**, Fei Huang, Mingli Song, Yongbin Li, Dacheng Tao. <I>Arxiv 2025</i>.-->
 
 ### 2024
 [**A Survey on Self-Evolution of Large Language Models** ](https://arxiv.org/abs/2404.14387) <br> 
@@ -48,7 +48,7 @@ Changyu Chen, Xiting Wang, **Ting-En Lin**, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong
 Yuhan Chen\*, Ang Lv\*, **Ting-En Lin**, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. <I>ACL 2024</i>. `acceptance rate: 21.3%`
 
 [**Self-Explanation Prompting Improves Dialogue Understanding in Large Language Models**](https://arxiv.org/abs/2309.12940) <br> 
-Haoyu Gao, **Ting-En Lin**, Hangyu Li, Min Yang, Yuchuan Wu, Wentao Ma, Yongbin Li. <I>LREC-COLING 2024</i>.
+Haoyu Gao, **Ting-En Lin**, Hangyu Li, Min Yang, Yuchuan Wu, Wentao Ma, Yongbin Li. <I>LREC-COLING 2024</i>. `acceptance rate: 52.6%`
 
 ### 2023
 <b>[Intent Recognition for Human-Machine Interactions](https://link.springer.com/book/10.1007/978-981-99-3885-8)</b> <br> 
