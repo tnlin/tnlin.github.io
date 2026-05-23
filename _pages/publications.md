@@ -9,11 +9,11 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=XNdFV
 ## Papers
 
 ### 2026
-[**Act-Adaptive Margin: Dynamically Calibrating Reward Models for Subjective Ambiguity**](https://arxiv.org/abs/2505.23923)<br>
-Feiteng Fang, Dingwei Chen, Xiang Huang, **Ting-En Lin**, Yuchuan Wu, Xiong Liu, Jing Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Yongbin Li. <I>ACL 2026</I>. `Oral Presentation, Top 3%`
-
 [**P-GenRM: Personalized Generative RewardModel with Test-time User-based Scaling**](https://openreview.net/forum?id=hXNApWLBZG)<br>
 Pinyi Zhang, **Ting-En Lin**, Yuchuan Wu, Jingyang Chen, Zongqi Wang, Hua Yang, Xu Ze, Fei Huang, Yongbin Li, Kai Zhang. <I>ICLR 2026</i>. `Oral Presentation, Top 1%`  [[Code]](https://github.com/Tongyi-ConvAI/Qwen-Character/tree/main/Character-GenRM)
+
+[**Act-Adaptive Margin: Dynamically Calibrating Reward Models for Subjective Ambiguity**](https://arxiv.org/abs/2505.23923)<br>
+Feiteng Fang, Dingwei Chen, Xiang Huang, **Ting-En Lin**, Yuchuan Wu, Xiong Liu, Jing Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Yongbin Li. <I>ACL 2026</I>. `Oral Presentation, Top 3%`
 
 ### 2025
 [**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**](https://arxiv.org/abs/2501.04561)<br>
