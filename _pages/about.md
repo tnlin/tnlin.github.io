@@ -17,10 +17,11 @@ redirect_from:
   <img src="https://tnlin.github.io/images/logo-nctu.png" width="150" hspace="20" vspace="10">
 </p>
 
-Ting-En (Tony) Lin is a research scientist at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/). His research focuses on [Large Language Model](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves as a program committee member for various leading conferences such as ACL/AAAI/ICLR/NeurIPS. Ting-En received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
+Ting-En (Tony) Lin is a research scientist at [Qwen-Character, Alibaba Group](https://tongyi.aliyun.com/). His research focuses on [Large Language Model](https://tnlin.github.io/), [Conversational AI](https://tnlin.github.io/), and [Multimodal Understanding](https://tnlin.github.io/). He publishes papers and serves on the program committees of various leading conferences, including ACL/AAAI/ICLR/NeurIPS. Ting-En received his MPhil degree in Computer Science and Technology at Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/)), working with Prof. [Hua Xu](https://thuiar.github.io/), and his bachelor’s degree from Electrical and Computer Engineering at the National Chiao Tung University ([NCTU](https://www.nctu.edu.tw/)).
 
 ## News
 ### 2026
+- May. 2026: Our paper **[Act-Adaptive Margin: Dynamically Calibrating Reward Models for Subjective Ambiguity](https://arxiv.org/abs/2505.23923)** has been accepted as an **Oral (top 3%)** at **ACL 2026**!@San Diego, California
 - Jan. 2026: We propose **[P-GenRM](https://openreview.net/forum?id=hXNApWLBZG)**, a novel personalized generative reward modeling framework that generalizes across preference modeling settings and enables effective downstream RL optimization. Our paper has been accepted as an **Oral (top 1%)** at [ICLR 2026](https://iclr.cc/Conferences/2026)!@Rio de Janeiro, Brazil.
 
 ### 2025
